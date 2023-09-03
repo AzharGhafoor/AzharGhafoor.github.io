@@ -1,24 +1,24 @@
 # Site settings
-title: Dr. Pavlo Bazilinskyy
-email: p.bazilinskyy@tudelft.nl
-description: Personal webpage of Dr. Pavlo Bazilinskyy
+title: Mr. Azhar Ghafoor
+email: azharghafoor39@gmail.com
+description: Personal webpage of Mr. Azhar Ghafoor
 baseurl: ""
 url: ""
-affiliation: I am part of the <a href="https://www.tue.nl/en/research/research-groups/future-everyday/" target="_blank">Future Everyday</a> group at TU Eindhoven.
+affiliation: I am part of the <a href="https://cytomate.net/" target="_blank">Cytomate Solutions & Services</a>; a cybersecurity company in Doha, Qatar.
 
 # Google analytics ID
 google_analytics: G-7BE63RZMTW
 
 # Location info. (shown in footer)
 location: >
-  Department of Industrial Design<br/>
-  P.O. Box 513<br/>
-  5600 MB Eindhoven<br/>
-  Netherlands<br/>
+  Street #18, New Chatta Bakhtawar<br/>
+  Postal Code 44000<br/>
+  Near COMSATS University Islamabad<br/>
+  Pakistan<br/>
 
 # Contact info. (shown in footer)
 contact: >
-    Contact me via email: <a href="mailto:p.bazilinskyy@tue.nl" target="_blank">p.bazilinskyy@tue.nl</a><br/>
+    Contact me via email: <a href="mailto:azharghafoor39@gmail.com" target="_blank">azharghafoor39@gmail.com</a><br/>
 
 # Pages shown in navbar
 nav_pages:

@@ -1,24 +1,24 @@
-- name: Dr. Pavlo Bazilinskyy
+- name: Mr. Azhar Ghafoor
   photo-small: bazilinskyy-defence.jpg
   photo-large: bazilinskyy-cycling.jpg
-  info: Assistant professor at TU Eindhoven
-  email: p.bazilinskyy@tue.nl
-  github: https://github.com/bazilinskyy
-  researchgate: https://www.researchgate.net/profile/Pavlo_Bazilinskyy
-  scholar: https://scholar.google.com/citations?user=_1df9yAAAAAJ
-  linkedin: https://www.linkedin.com/in/bazilinskyy
-  orcid: https://orcid.org/0000-0001-9565-8240
-  cv: https://github.com/bazilinskyy/bazilinskyy.github.io/blob/master/cv/CV-PavloBazilinskyy.pdf?raw=true
+  info: Cybersecurity Analyst at Cytomate
+  email: azharghafoor39@gmail.com
+  github: https://github.com/AzharGhafoor
+  researchgate: https://www.researchgate.net/profile/Azhar-Ghafoor-3
+  scholar: https://scholar.google.com/citations?user=UYIGXywAAAAJ
+  linkedin: https://www.linkedin.com/in/azhar-ghafoor/
+  orcid: https://orcid.org/0000-0002-6534-3464
+  cv: https://github.com/AzharGhafoor/AzharGhafoor.github.io/blob/master/cv/CV_Azhar_AU.pdf?raw=true
   number_educ: 6
-  education1: (2022–) Assistant professor in <a href="https://www.tue.nl/en/research/research-groups/future-everyday" target="_blank">Future Everyday</a> group at <a href="https://www.tue.nl" target="_blank">TU Eindhoven</a> 🇳🇱
-  education2: (2018–22) Postdoc in VIDI project of <a href="https://sites.google.com/site/jcfdewinter" target="_blank">Dr. Joost de Winter</a> at <a href="https://www.tudelft.nl" target="_blank">TU Delft</a> 🇳🇱
-  education3: (2018–21) Director of data science research at <a href="https://sd-insights.eu" target="_blank">SD-Insights</a> 🇳🇱
-  education4: (2014–18) <b>PhD in Human Factors of Automated Driving</b> at <a href="https://www.tudelft.nl" target="_blank">TU Delft</a> 🇳🇱
-  education5: (2012–14) <b>Double MSc in Computer Science</b> at <a href="" target="_blank">University of St Andrews</a> 🏴󠁧󠁢󠁳󠁣󠁴󠁿 and <a href="" target="_blank">Maynooth University</a> 🇮🇪
-  education6: (2009–12) <b>BEng in Information Technology</b> at <a href="https://www.xamk.fi" target="_blank">Mikkeli University of Applied Sciences</a> 🇫🇮
-  education1short: (2022–) Assistant professor, TU/e 
-  education2short: (2018–22) Postdoc, TU Delft 
-  education3short: (2018–21) Data scientist, SD-Insights
-  education4short: (2014–18) PhD, TU Delft
-  education5short: (2012–14) MSc, St Andrews/Maynooth
-  education6short: (2009–12) BEng, Mikkeli AMK
+  education1: (2022–) Cybersecurity Analyst at <a href="https://cytomate.net/" target="_blank">Cytomate Solutions & Services</a> in <a href="https://visitqatar.com/intl-en/about-qatar/doha" target="_blank"> Doha, Qatar</a> 🇳🇱
+  education2: (2021–22) Cybersecurity Researcher at <a href="https://comsats.edu.pk/" target="_blank">Cybersecurity Lab, CUI,</a> in <a href="https://www.cda.gov.pk/about_islamabad/history/#ad-image-0" target="_blank"> Islamabad, Pakistan</a> 🇳🇱
+  education3: (2020–22) <b>Masters in Information Security</b> from <a href="https://comsats.edu.pk/" target="_blank">COMSATS University Islamabad,</a><a href="https://www.cda.gov.pk/about_islamabad/history/#ad-image-0" target="_blank"> Islamabad, Pakistan</a> 🇳🇱
+  education4: (2020–) Professional Freelancing at <a href="https://www.fiverr.com/azharghafoor39?up_rollout=true" target="_blank">Fiverr</a> 🇳🇱
+  education5: (2019-219) Internship at <a href="https://www.aksa-sds.com/" target="_blank">AKSA-SDS,</a><a href="https://www.cda.gov.pk/about_islamabad/history/#ad-image-0" target="_blank"> Islamabad, Pakistan</a> 🇮🇪
+  education6: (2009–12) <b>Bachelors in Information Technology</b> from <a href="https://qau.edu.pk/" target="_blank">Quaid-i-Azam University,</a><a href="https://www.cda.gov.pk/about_islamabad/history/#ad-image-0" target="_blank"> Islamabad, Pakistan</a> 🇫🇮
+  education1short: (2022–) Cybersecurity Analyst, Cytomate  
+  education2short: (2021–22) Cybersecurity Researcher, CUI
+  education3short: (2020–22) MS Information Security, CUI
+  education4short: (2020–) Professional Freelancing, Fiverr
+  education5short: (2019–19) Intern, AKSA-SDS
+  education6short: (2015–19) BS Information Technology, QAU

@@ -33,14 +33,14 @@ I am currently spearheading a vital [Open-Source Intelligence](https://www.sans.
 
   
 
-  Presentation on [Unlocking Online Safety: Introducing Our OSINT Project - Your Shield Against Data Breaches]([https://github.com/bazilinskyy/coupled-sim](https://github.com/AzharGhafoor/Telegram-OSINT/blob/main/README.md).
+  Presentation on [Unlocking Online Safety: Introducing Our OSINT Project - Your Shield Against Data Breaches](https://github.com/AzharGhafoor/Telegram-OSINT/blob/main/README.md).
 </div>
 
 ### Free time
-* 🗺️ Travelling (especially to [Northern Areas of Pakistan](http://parepmoscow.com/en/tourism/tourist-attractions/northern-areas/).
+* 🗺️ Travelling (especially to [Northern Areas of Pakistan](http://parepmoscow.com/en/tourism/tourist-attractions/northern-areas/)).
 * 💻 Coding ([github](https://github.com/AzharGhafoor)).
 * 📖 Reading ([goodreads](https://www.goodreads.com/)).
-* ⚽️🎾🏀 Sports ([comsats.edu.pk](http://www.comsats.edu.pk/Offices/sports.aspx)).
+* ⚽ Sports ([sports club](http://www.comsats.edu.pk/Offices/sports.aspx)).
 * 🎸 Music ([youtube.com](https://www.youtube.com/@TheFinalRevelation1)). I usually like to listen to islamic lectures, naats, and recitations.
 * 📺 Films and tv series ([imdb](https://www.imdb.com/), [trakt](https://trakt.tv/)). Somebody likes tv, surprise! 😬
 

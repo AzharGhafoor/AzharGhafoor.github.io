@@ -23,9 +23,9 @@ Educationally, my [Master's in Information Security](https://azharghafoor.netlif
 My portfolio is a testament to my dedication, innovation, and passion for cybersecurity. As we connect, we embark on a shared journey to fortify digital defenses and empower individuals and organizations. Together, we shape a secure digital future.
 
 ### Empowering Users to Secure Their Online Presence
-
+<p align="justify">
 I am currently spearheading a vital [Open-Source Intelligence](https://www.sans.org/blog/what-is-open-source-intelligence/) (OSINT) project aimed at revolutionizing data collection and bolstering online security. In this undertaking, I am solely responsible for developing a system that will empower users to search for records linked to their email addresses, usernames, or phone numbers, enabling them to identify potential compromises of their passwords and accounts, which may be exploited by attackers. This project holds paramount importance as it addresses the pressing need for enhanced online security in a world where personal information is a prime target for cybercriminals, ultimately equipping users with a pivotal tool to safeguard their digital identities and privacy. Stay tuned for updates on this groundbreaking system's journey to fortify online defenses.
-
+</p>
 <div class="row" style="text-align:center">
   <iframe style="display:inline-block; border-radius: 5px; border:0px solid #FFF; width: 95%; height: 246px" src="https://drive.google.com/file/d/1lDvHNlr5H_pvUqbjBkvScu7zGXlrXq57/preview" allow="autoplay" frameborder="0" allowfullscreen></iframe>
 

@@ -72,7 +72,7 @@ permalink: /about/
 ## Short biography
 
 <div class="short-bio">
-  Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-driven interaction between automated vehicles and other road users. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow, where he also worked as a postdoc. He was the head of data research at SD-Insights. Pavlo is a treasurer of the Marie Curie Alumni Association (MCAA) and was a director of the Research and Innovation unit of the Erasmus Mundus Association (EMA).
+  Azhar Ghafoor is a seasoned Cybersecurity Analyst with a profound passion for the field. With over a year of experience at Cytomate, he has spearheaded innovative projects in compliance, post-attack assessment, and attack surface management. Azhar's expertise extends to machine learning-driven log analysis, advanced cyber deception, and impactful phishing awareness campaigns. As a Cybersecurity Content Writer on Medium and a Professional Freelancer on Fiverr, he shares his knowledge and delivers top-tier results. Azhar holds a Master's in Information Security from COMSATS University Islamabad, cementing his commitment to cybersecurity excellence.
 </div>
 
 {% if site.data.awards %}

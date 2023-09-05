@@ -1,4 +1,4 @@
-- name: Prof. Munam Ali Shah
+- name: Dr. Munam Ali Shah
   name_url: https://www.researchgate.net/profile/Munam-Shah
   field: 5G Networks, IoMT
   institution: COMSATS University Islamabad
@@ -13,8 +13,8 @@
 - name: Mr. Mudassar Mushtaq
   name_url: https://www.linkedin.com/in/mudassar-mushtaq/
   field: IoMT
-  institution: COMSATS University Islamabad
-  institution_url: https://www.researchgate.net/institution/COMSATS-University-Islamabad
+  institution: Pakistan Telecommunication Company Ltd (PTCL)
+  institution_url: https://www.linkedin.com/company/ptcl-official/
 
 - name: Mr. Osama Ellahi
   name_url: https://www.linkedin.com/in/osamaellahi/
@@ -33,3 +33,9 @@
   field: Cyber Deception, Research
   institution: Khushhali Microfinance Bank Limited
   institution_url: https://www.linkedin.com/company/khushhali-microfinance-bank-limited/
+
+- name: Mr. M. Ahmad Nawaz
+  name_url: https://www.linkedin.com/in/m-ahmad-nawaz-524974112/
+  field: Practical Research
+  institution: Riphah International University
+  institution_url: https://www.linkedin.com/school/riphah-international-university/

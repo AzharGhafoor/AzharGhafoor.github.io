@@ -1,5 +1,0 @@
-@article{bazilinskyy2021synthetic,
-  title={Exterior sounds for electric and automated vehicles: Loud is effective},
-  author={Bazilinskyy, Pavlo and Merino-Martınez, Roberto and Özcan, Elif and Dodou, Dimitra and De Winter, J. C. F.},
-  year={2023}
-}

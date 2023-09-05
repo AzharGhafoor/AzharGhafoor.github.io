@@ -4,69 +4,69 @@
   organisation_url: https://www.skillfront.com
   year: 2023
 
-# - name: Foundations of Cybersecurity
-#   name_url: https://coursera.org/share/a3a99a115d1d2047214cbc75b2a1db75
-#   organisation: Google, Coursera
-#   organisation_url: https://coursera.org
-#   year: 2021
+- name: Foundations of Cybersecurity
+  name_url: https://coursera.org/share/a3a99a115d1d2047214cbc75b2a1db75
+  organisation: Google, Coursera
+  organisation_url: https://coursera.org
+  year: 2021
 
-# - name: Finalist of IEEE SMC Franklin V. Taylor award
-#   name_url: https://www.ieeesmc.org/about-smcs/awards/franklin-v-taylor-memorial-award
-#   organisation: SMC
-#   organisation_url: https://ieeesmc.org
-#   year: 2023
+- name: Finalist of IEEE SMC Franklin V. Taylor award
+  name_url: https://www.ieeesmc.org/about-smcs/awards/franklin-v-taylor-memorial-award
+  organisation: SMC
+  organisation_url: https://ieeesmc.org
+  year: 2023
 
-# - name: Foundation Level Threat intelligence Analyst
-#   name_url: https://arcx.io/verify-certificate?id=c385f4a7ce015ec8f8f3f60930a2757dbce1fe8f&k=0d37d53c28b54f58a140c4be46e97120
-#   organisation: arcX
-#   organisation_url: https://arcx.io/
-#   year: 2023
+- name: Foundation Level Threat intelligence Analyst
+  name_url: https://arcx.io/verify-certificate?id=c385f4a7ce015ec8f8f3f60930a2757dbce1fe8f&k=0d37d53c28b54f58a140c4be46e97120
+  organisation: arcX
+  organisation_url: https://arcx.io/
+  year: 2023
 
-# - name: ISO/IEC 27001 Information Security Associate
-#   name_url: https://www.skillfront.com/Badges/04372113469104
-#   organisation: SkillFront
-#   organisation_url: https://www.skillfront.com
-#   year: 2023
+- name: ISO/IEC 27001 Information Security Associate
+  name_url: https://www.skillfront.com/Badges/04372113469104
+  organisation: SkillFront
+  organisation_url: https://www.skillfront.com
+  year: 2023
 
-# - name: Intro to DFIR: The Divide and Conquer Process
-#   name_url: https://www.linkedin.com/in/azhar-ghafoor/details/certifications/
-#   organisation: Cyber Triage
-#   organisation_url: https://www.cybertriage.com/
-#   year: 2023
+- name: Intro to DFIR-The Divide and Conquer Process
+  name_url: https://www.linkedin.com/in/azhar-ghafoor/details/certifications/
+  organisation: Cyber Triage
+  organisation_url: https://www.cybertriage.com/
+  year: 2023
 
-# - name: Phishing Email Analysis
-#   name_url: https://app.letsdefend.io/my-badges/detail/55705067f6b145deaaa2a6dbc09f68ad
-#   organisation: LetsDefend
-#   organisation_url: https://letsdefend.io
-#   year: 2023
+- name: Phishing Email Analysis
+  name_url: https://app.letsdefend.io/my-badges/detail/55705067f6b145deaaa2a6dbc09f68ad
+  organisation: LetsDefend
+  organisation_url: https://letsdefend.io
+  year: 2023
 
-# - name: Ethical Hacking Essentials (EHE)
-#   name_url: https://codered.eccouncil.org/certificate/15b6839e-2dbd-4f36-bde8-067066f5a189
-#   organisation: EC-Council
-#   organisation_url: https://codered.eccouncil.org
-#   year: 2023
+- name: Ethical Hacking Essentials (EHE)
+  name_url: https://codered.eccouncil.org/certificate/15b6839e-2dbd-4f36-bde8-067066f5a189
+  organisation: EC-Council
+  organisation_url: https://codered.eccouncil.org
+  year: 2023
 
-# - name: Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity
-#   name_url: https://learn.microsoft.com/en-us/training/achievements/learn.wwl.describe-concepts-of-security-compliance-identity.trophy?username=AzharGhafoor-0008&sharingId=9BF9805578F01953
-#   organisation: Microsoft
-#   organisation_url: https://learn.microsoft.com/
-#   year: 2023
+- name: Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity
+  name_url: https://learn.microsoft.com/en-us/training/achievements/learn.wwl.describe-concepts-of-security-compliance-identity.trophy?username=AzharGhafoor-0008&sharingId=9BF9805578F01953
+  organisation: Microsoft
+  organisation_url: https://learn.microsoft.com/
+  year: 2023
 
-# - name: Microsoft PowerPoint assessment
-#   name_url: https://www.linkedin.com/posts/azhar-ghafoor_linkedinskillassessment-activity-6942573118683049984-AlVf?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3ByXzsueFnSJ2CN5Fn06WdJQ%3D%3D
-#   organisation: Linkedin
-#   organisation_url: https://www.linkedin.com
-#   year: 2022
+- name: Microsoft PowerPoint assessment
+  name_url: https://www.linkedin.com/posts/azhar-ghafoor_linkedinskillassessment-activity-6942573118683049984-AlVf?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3ByXzsueFnSJ2CN5Fn06WdJQ%3D%3D
+  organisation: Linkedin
+  organisation_url: https://www.linkedin.com
+  year: 2022
 
-# - name: HCIA Security
-#   name_url: https://drive.google.com/file/d/1h06_L4AlLaQTL3PU9tTHzkDUYLRRzTsv/view?usp=drivesdk
-#   organisation: Huawei
-#   organisation_url: https://e.huawei.com/en/talent/
-#   year: 2021
+- name: HCIA Security
+  name_url: https://drive.google.com/file/d/1h06_L4AlLaQTL3PU9tTHzkDUYLRRzTsv/view?usp=drivesdk
+  organisation: Huawei
+  organisation_url: https://e.huawei.com/en/talent/
+  year: 2021
 
-# - name: Certified Ethical Hacker(CEH)
-#   name_url: https://drive.google.com/file/u/0/d/1DXMRPjNd6Z4NQjDuM5PlDofZatOS3qbM/view?usp=sharing&pli=1
-#   organisation: PFTP
-#   organisation_url: https://pftpedu.org/
-#   year: 2022
+- name: Certified Ethical Hacker(CEH)
+  name_url: https://drive.google.com/file/u/0/d/1DXMRPjNd6Z4NQjDuM5PlDofZatOS3qbM/view?usp=sharing&pli=1
+  organisation: PFTP
+  organisation_url: https://pftpedu.org/
+  year: 2022
 

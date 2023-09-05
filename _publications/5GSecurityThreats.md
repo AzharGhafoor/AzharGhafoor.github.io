@@ -4,7 +4,7 @@ sitemap: false
 title: "5G Security Threats Affecting Digital Economy And Their Countermeasures"
 authors: Ghafoor, A., Shah, M. A., Mushtaq, M., Iftikhar, M.
 pdf: 5GSecurityThreats
-image: 5GSecurityThreats.jpg
+image: 5GSecurityThreats.png
 display: "Conference Paper in IET Digital Library"
 year: 2021
 doi: https://chooser.crossref.org/?doi=10.1049%2Ficp.2021.2419

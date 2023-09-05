@@ -7,7 +7,7 @@ permalink: /volunteering/
 
 # Volunteering and organisation of events
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/volunteering/tudelft-defence.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/volunteering/volunteer-comsats.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
 
 #### Academia
 
@@ -18,7 +18,7 @@ permalink: /volunteering/
 </div>
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/volunteering/volunteer-comsats.png" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/volunteering/support.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
 
 #### The Pinnacle of Support
 
@@ -27,6 +27,3 @@ permalink: /volunteering/
   <ul style="overflow: hidden">
   </ul>
 </div>
-
-<div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/volunteering/support.png" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />

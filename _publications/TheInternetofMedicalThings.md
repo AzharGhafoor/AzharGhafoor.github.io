@@ -1,7 +1,7 @@
 ---
 layout: publication
 sitemap: false
-title: The Internet of Medical Things (IoMT): Security Threats and Issues Affecting the Digital Economy
+title: "The Internet of Medical Things (IoMT): Security Threats and Issues Affecting the Digital Economy"
 authors: Mushtaq, M., Shah, M. A., and Ghafoor, A.
 pdf: TheInternetofMedicalThings
 image: TheInternetofMedicalThings.png

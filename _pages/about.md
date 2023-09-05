@@ -76,7 +76,7 @@ permalink: /about/
 </div>
 
 {% if site.data.awards %}
-## Courses & Certifications
+## Courses and Certifications
 <div class="rowl1" style="padding-top: 10px;">
 
 {% for award in site.data.awards %}

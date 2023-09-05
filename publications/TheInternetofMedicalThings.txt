@@ -1,0 +1,16 @@
+@ARTICLE{
+   iet:/content/conferences/10.1049/icp.2021.2420,
+   author = {M. Mushtaq},
+   author = {M. A. Shah},
+   author = {A. Ghafoor},
+   keywords = {repay attack;malware attacks;NE curs;Internet of Medical Things;IoMT system;fingerprint based spoofing;Gamut;healthcare industry;time-based spoofing;cyber-attacks;router attack;Miari;security threats;Emoted;denial of service;sugar levels;digital economy;health company;sensor attack;blood pressure;health information;ransomware;},
+   language = {English},
+   abstract = {In the healthcare industry, we cannot deny, contradict or oppose the importance of the Internet of Medical Things (IoMT). The ultimate purpose of the IoMT system is to gather and transmit health information such as ECG, weight, blood pressure and sugar levels. Such data may be shared with an approved individual, who may be a physician, a participating health company, insurance provider, or an external contractor regardless of their time, location, and device. But the story is not as simple because IoMT faces various emerging cyber-attacks and threats. Day by day new malware attacks are created and launched on IoMT because an attacker knows that this market is worth billions. The purpose of writing this paper is to introduce you to some of the well-known attacks that are launched on IoT. Such as denial of service, router attack, sensor attack, repay attack, fingerprint, and time-based spoofing, and recent malware attacks such as like Miari, Emoted, Gamut and NE curs and ransomware in IOMT.},
+   title = {THE INTERNET OF MEDICAL THINGS (IOMT): SECURITY THREATS AND ISSUES AFFECTING DIGITAL ECONOMY},
+   journal = {IET Conference Proceedings},
+   year = {},
+   month = {},
+   pages = {137-142(5)},
+   publisher ={Institution of Engineering and Technology},
+   url = {https://digital-library.theiet.org/content/conferences/10.1049/icp.2021.2420}
+}

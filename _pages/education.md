@@ -88,7 +88,7 @@ permalink: /education/
 
 
 
-{% if site.data.supervision_msc %}
+{% if site.data.thesis_azhar %}
 <!-- Sort courses by year -->
 {% assign students = site.data.thesis_azhar | sort: 'year' | reverse %}
 ## Master's Thesis

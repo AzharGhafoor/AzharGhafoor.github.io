@@ -86,14 +86,6 @@ permalink: /about/
 {% endif %}
 
 {% if site.data.grants %}
-## Grants
-<div class="rowl1" style="padding-top: 10px;">
-
-{% for grant in site.data.grants %}
-{{ forloop.index }}. {% if grant.name_url %}<a href="{{ grant.name_url }}" target="_blank">{% endif %}<strong>{{ grant.name }}</strong>{% if grant.name_url %}</a>{% endif %} {% if grant.organisation %} from {% if grant.organisation_url %}<a href="{{ grant.organisation_url }}" target="_blank">{% endif %} {{ grant.organisation }}{% if grant.organisation_url %}</a>{% endif %}{% endif %}{% if grant.subtitle %}: {{ grant.subtitle }}{% endif %} ({{ grant.year }}).
-{% endfor %}
-</div>
-{% endif %}
 
 {% if site.data.collaborators %}
 ## Collaborations

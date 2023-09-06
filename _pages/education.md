@@ -78,9 +78,6 @@ permalink: /education/
 </div>
 {% endif %}
 
-{% if site.data.supervision_bsc %}
-<!-- Sort students by year -->
-{% assign students = site.data.supervision_bsc | sort: 'year' | reverse %}
 
 
 
@@ -88,7 +85,13 @@ permalink: /education/
 
 
 
-## Thesis
+
+
+
+{% if site.data.supervision_msc %}
+<!-- Sort courses by year -->
+{% assign students = site.data.thesis_azhar | sort: 'year' | reverse %}
+## Master's Thesis
 <div class="rowl1" style="padding-top: 10px;">
 
 {% for student in students %}
@@ -109,13 +112,12 @@ permalink: /education/
 </div>
 {% endif %}
 
+
+
+
 {% if site.data.supervision_bsc %}
 <!-- Sort students by year -->
 {% assign students = site.data.supervision_bsc | sort: 'year' | reverse %}
-
-
-
-
 ## Supervision of BSc students and student groups
 <div class="rowl1" style="padding-top: 10px;">
 

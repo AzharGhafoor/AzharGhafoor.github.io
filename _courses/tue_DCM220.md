@@ -40,5 +40,3 @@ This comprehensive course is structured to provide a thorough assessment of part
 
 #### Course schedule and deliverables
 In this course, students will learn several design principles and techniques for creating appropriate experiences of conversational designs. Students will also read literature and apply all the knowledge through practising with a design project. To empower students’ learning-by-doing practice, we integrate the user-centre-design and double-diamond process with the weekly topics and assignments. The overall program is presented in the following diagram, followed by the descriptions of the weekly teaching plan.
-
-<img src="{{ site.url }}{{ site.baseurl }}/courses/2IAB0-structure.jpg" class="img-responsive"/>

@@ -131,7 +131,7 @@ permalink: /education/
       {% endif %}
   {% endif %}
 
-{{ forloop.index }}. {% if student.name_url %}<a href="{{ student.name_url }}" target="_blank">{% endif %} <strong>{{ student.name }}</strong> {% if student.name_url %}</a>{% endif %} ({{ student.year }}) {% if student.status == 'published' %}<button class="btn-notstarted">PUBLISHED</button>{% endif %}{% if student.status == 'online' %}<button class="btn-inprogress">ONLINE</button>{% endif %}{% if student.status == 'in progress' %}<button class="btn-completed">IN PROGRESS</button>{% endif %}{% if student.comment %} – {{ student.comment }}{% endif %}
+{{ forloop.index }}. {% if student.name_url %}<a href="{{ student.name_url }}" target="_blank">{% endif %} <strong>{{ student.name }}</strong> {% if student.name_url %}</a>{% endif %} ({{ student.year }}) {% if student.status == 'incomplete' %}<button class="btn-notstarted">INCOMPLETE</button>{% endif %}{% if student.status == 'inprogress' %}<button class="btn-inprogress">IN PROGRESS</button>{% endif %}{% if student.status == 'published' %}<button class="btn-completed">PUBLISHED</button>{% endif %}{% if student.comment %} – {{ student.comment }}{% endif %}
 <br/>
 <i>{{ student.project }}</i>{% if pdffile %} (<a href="{{ pdffile }}" target="_blank">link</a>){% endif %}.
 

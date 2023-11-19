@@ -1,32 +1,36 @@
 ---
-title: "CS181: Introduction/Application of Information and Communication Technologies"
+title: "CY-4001: Secure Software Development"
 layout: course
 sitemap: false
-name: Information and communication technologies
-name_url: https://www.hec.gov.pk/english/services/universities/RevisedCurricula/Documents/2011-2012/Education/ICTsEdu_Sept13.pdf
+name: Secure Software Development
+name_url: https://nceac.org.pk/Documents/Curriculums/BS%20Curriculm%20Computing%20Disciplines-2023.pdf
 year_start: 2023
-year_end: 
-institution: TU/e
+year_end: 2023
+institution: University
 type: bs
-students: 56
-code: CS181
-subheading: Mastering the fundamentals of cybersecurity and staying updated on technological advancements
-pdf: ict_course
+students: 51
+code: CY4001
+subheading: Learning the art of building secure and robust software
+pdf: 
 comment: 
 ---
 #### Introduction
-The course Data Analytics for Engineers is a mandatory generic engineering course offered to all first-year bachelor students at TU/e in Q3. It attracts more than 1000 students. It is organised with the involvement of staff from a number of departments of TU/e.
+<p align="justify">The course on "Secure Software Development" is meticulously crafted to provide participants with a comprehensive understanding of the intricacies involved in developing software with a strong emphasis on security. In an era marked by increasing cyber threats and vulnerabilities, this course equips participants with the knowledge and skills necessary to create robust, secure software applications. The curriculum delves into foundational concepts of secure coding practices, encryption methodologies, and threat modeling. Participants will gain insights into identifying and mitigating common vulnerabilities, understanding the principles of secure design, and implementing security best practices throughout the software development lifecycle.</p>
+<p align="justify">The course adopts a hands-on approach, allowing participants to apply theoretical concepts in practical scenarios. Through real-world case studies, participants will analyze security breaches, dissect the root causes, and implement preventive measures. Additionally, the course covers the integration of security testing into the development process, ensuring that participants are adept at identifying and rectifying security flaws during the various stages of software development. The importance of adhering to industry standards and compliance regulations is also emphasized, providing participants with a holistic perspective on secure software development practices.</p>
+<p align="justify">Furthermore, the course addresses emerging trends and challenges in the cybersecurity landscape, preparing participants to stay ahead of evolving threats. It fosters a collaborative learning environment where participants can engage in discussions, share insights, and work on practical exercises. Whether participants are seasoned developers looking to enhance their security acumen or individuals new to the field, this course aims to empower them with the skills and knowledge needed to contribute to the creation of resilient and secure software systems. Overall, "Secure Software Development" serves as a crucial foundation for professionals seeking to navigate the complex intersection of software development and cybersecurity.</p>
 
 #### My role
-- 2022–: supervisor.
+- 2022–: Instructor.
 
-#### Learning goals
-- **L1**. Students gain insight in basic techniques for processing large amounts of data in an efficient, reliable, and consistent way.
-- **L2**. Students develop skills in understanding, interpreting, and documenting data and information in the context of realistic scenarios. 
-- **L3**. Students get understanding of the data life cycle and develop skills for structuring their solutions of practical problems along the phases of the data life cycle. 
-- **L4**. Students apply data analytics techniques to realistic data sets in which they can recognize the demands within their area of specialization. 
-- **L5**. Students obtain basic knowledge of statistical concepts and techniques and develop skills to apply them in practice. 
-- **L6**. Students learn to implement their solutions for data analytics problems in a programming language (Python), and apply a structured and systematic approach to data processing.
+#### Course Learning Objectives
+<p align="justify">The Course Learning Outcomes (CLOs) for "Secure Software Development" encapsulate the essential competencies students will gain. These include the ability to critically evaluate threats and vulnerabilities, apply security principles, model system artifacts with a focus on threat aspects, apply analysis and testing skills for vulnerability mitigation, and explore new dimensions in secure software development. The CLOs collectively emphasize the course's commitment to providing students with a comprehensive understanding of secure software development practices.</p>
+
+
+
+- **Objective 1**. Critically evaluate threats and vulnerabilities, applying essential security principles.
+- **Objective 2**. Model system artifacts with consideration for threat and vulnerability aspects.
+- **Objective 3**. Apply analysis and testing skills, focusing on vulnerability and threat perspectives, and implement mechanisms for mitigation. 
+- **Objective 4**. Explore new avenues in secure software development, understanding both strengths and limitations.
 
 <img src="{{ site.url }}{{ site.baseurl }}/courses/2IAB0-structure.jpg" class="img-responsive"/>
 

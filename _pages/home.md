@@ -42,7 +42,7 @@ I am currently spearheading a vital [Open-Source Intelligence](https://www.sans.
 <br/>
 
 <div class="well-md">
-  <h3>Funding</h3>
+  <h3>Organizations</h3>
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
    {% for funder in site.data.funders %}{% if funder.url %}<a href="{{funder.url}}" target="_blank"><img src='/images/logos/{{ funder.image }}' style='max-height: 70px; max-width: 170px;'/></a>{% else %}<img src='/images/logos/{{ funder.image }}' class='mycenter' style='max-height: 70px; max-width: 170px;'/>{% endif %}   {% endfor %}
   </div>

@@ -2,3 +2,8 @@
   date_end: 25.11.2023
   headline: OSINT Training
   location: Islamabad
+  
+- date_start: 10.10.2023
+  date_end: 
+  headline: CVEs mapping to Mitre Att\&ck Framework
+  location: self-paced

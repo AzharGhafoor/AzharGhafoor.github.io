@@ -1,0 +1,63 @@
+- name: Effective Subdomain Crawling using Python
+  name_url: https://ghafoorazhar.medium.com/effective-subdomain-crawling-using-python-6643bee595a5
+  project: This post demonstrates practical steps in creating a Python-based tool for reconnaissance to identify all subdomains of a specified domain.
+  project_url: https://ghafoorazhar.medium.com/effective-subdomain-crawling-using-python-6643bee595a5
+  year: 2023
+  status: published
+  comment: on <a href="https://ghafoorazhar.medium.com" target="_blank">Medium</a>
+
+- name: A Practical Approach of Phishing Detection Using Email Header
+  name_url: https://ghafoorazhar.medium.com/a-practical-approach-of-phishing-detection-using-email-header-4a8384c4e681
+  project: This post emphasizes the importance of learning to analyze email headers to identify phishing emails and enhance cybersecurity. By examining metadata, users can unveil the true origins of emails, distinguishing between legitimate communication and potential phishing attempts. Key flags to check include the sender's domain, authentication status, and Received headers for irregularities. Acquiring this skill is crucial in recognizing and mitigating phishing scams, fostering a heightened awareness of cybersecurity threats.
+  project_url: https://ghafoorazhar.medium.com/a-practical-approach-of-phishing-detection-using-email-header-4a8384c4e681
+  year: 2022
+  status: published
+  comment: on <a href="https://ghafoorazhar.medium.com" target="_blank">Medium</a>
+
+- name: Extraction of Emails & Header Information from Outlook in Order to Detect Phishing Attacks
+  name_url: https://ghafoorazhar.medium.com/extraction-of-emails-header-information-from-outlook-in-order-to-detect-phishing-attacks-8429cbd8b7ee
+  project: This post illustrates practical steps for extracting crucial data from email headers to uncover the actual address of the attacker behind a phishing email.
+  project_url: https://ghafoorazhar.medium.com/extraction-of-emails-header-information-from-outlook-in-order-to-detect-phishing-attacks-8429cbd8b7ee
+  year: 2022
+  status: published
+  comment: on <a href="https://ghafoorazhar.medium.com" target="_blank">Medium</a>
+
+- name: Email Stealer — how hackers steal emails from outlook
+  name_url: https://ghafoorazhar.medium.com/email-stealer-how-hackers-steal-emails-from-outlook-2d999e50ad76
+  project: Stealing all emails from the victim’s machine without leaving any footprints of the attack
+  project_url: https://ghafoorazhar.medium.com/email-stealer-how-hackers-steal-emails-from-outlook-2d999e50ad76
+  year: 2022
+  status: published
+  comment: on <a href="https://ghafoorazhar.medium.com" target="_blank">Medium</a>
+
+- name: Deception Systems— An Innovative Honeyed Setup to Catch Adversaries
+  name_url: https://ghafoorazhar.medium.com/deception-systems-an-innovative-honeyed-setup-to-catch-adversaries-6748c1042b37
+  project: A geotagging-enabled deception system to increase the number of attackers and attacks by challenging attackers’ skills and by motivating them to come up with new and advanced techniques to bypass decoyed security barriers to seize critical (honeyed) documents, ultimately helping us to understand those new attacks.
+  project_url: https://ghafoorazhar.medium.com/deception-systems-an-innovative-honeyed-setup-to-catch-adversaries-6748c1042b37
+  year: 2022
+  status: published
+  comment: on <a href="https://ghafoorazhar.medium.com" target="_blank">Medium</a>
+
+- name: Effective Subdomain Crawling using Python
+  name_url: https://ghafoorazhar.medium.com/effective-subdomain-crawling-using-python-6643bee595a5
+  project: This post demonstrates practical steps in creating a Python-based tool for reconnaissance to identify all subdomains of a specified domain.
+  project_url: https://ghafoorazhar.medium.com/effective-subdomain-crawling-using-python-6643bee595a5
+  year: 2023
+  status: published
+  comment: on <a href="https://ghafoorazhar.medium.com" target="_blank">Medium</a>
+
+- name: Installing a Virtual Machine (vmdk) on VMware Workstation
+  name_url: https://ghafoorazhar.medium.com/installing-a-virtual-machine-vmdk-on-vmware-workstation-977378eba4f4
+  project: Creating a Workstation virtual machine using existing VMDK virtual disks.
+  project_url: https://ghafoorazhar.medium.com/installing-a-virtual-machine-vmdk-on-vmware-workstation-977378eba4f4
+  year: 2023
+  status: published
+  comment: on <a href="https://ghafoorazhar.medium.com" target="_blank">Medium</a>
+
+- name: Creating a GitHub Profile Readme: Your Introduction to Visitors
+  name_url: https://ghafoorazhar.medium.com/creating-a-github-profile-readme-your-introduction-to-visitors-ae73bbcd4e84
+  project: Crafting an Impressive GitHub Profile README: Your Gateway to Making a Lasting First Impression.
+  project_url: https://ghafoorazhar.medium.com/creating-a-github-profile-readme-your-introduction-to-visitors-ae73bbcd4e84
+  year: 2023
+  status: published
+  comment: on <a href="https://ghafoorazhar.medium.com" target="_blank">Medium</a>

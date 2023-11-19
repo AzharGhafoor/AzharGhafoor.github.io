@@ -1,39 +1,44 @@
 ---
-title: "DCM220: Conversational design with multi-modalities"
-layout: course
+title: "CS181: Introduction/Application of Information & Communication Technologies"
+layout: course/Lab
 sitemap: false
-name: Conversational design with multi-modalities
-name_url: https://tue.osiris-student.nl/#/onderwijscatalogus/extern/cursus?cursuscode=DCM220&collegejaar=2022
+name: Application of information & communication technologies
+name_url: https://www.hec.gov.pk/english/services/universities/RevisedCurricula/Documents/2011-2012/Education/ICTsEdu_Sept13.pdf
 year_start: 2023
-year_end: 
-institution: TU/e
-type: msc
-students: 30+
-code: DCM220
-subheading: Focus on multi-modal feedback for automotive
-pdf: DCM220-studyguide
+year_end: 2023
+institution: University
+type: BS
+students: 56
+code: CS181
+subheading: Mastering the fundamentals of cybersecurity and staying updated on technological advancements
+pdf: ict_course
 comment:
 ---
 #### Introduction
-Nowadays, we are confronting various new machines equipped with intelligence, and they can interact with us socially.
-Social robots, voice user interfaces, and chatbots are such examples. They show a lot of promise in using conversational interaction to simplify and amplify our everyday personal and professional lives. However, conversational design is more than creating interfaces that can talk or chat. A good conversation is more than an exchange of phrases. It begins with an unspoken agreement and succeeds with cooperation toward a goal. The primary interest of this course is to explore design principles and use them to design intuitive interactions with digital systems and whether a system can use the proper modalities to fit the contexts and activities. Informed by HCI studies on human-human conversations, we already knew that there are essential qualities of a good conversation, including Goal-oriented, Cooperative, Context- aware, Quick and straightforward, Turn-based, Truthful, Polite, and Error-tolerant. In the first part of the course, students will study to understand those conversational qualities and individually develop interaction concepts with a chosen modality, such as voice, text, gesture, haptic, or tangible. The designed interactions should embody the qualities that fit usage scenarios. In the second part, students will use the interaction-attention continuum to analyse the interaction flow in a broader everyday context. Based on the analysis, students will expand the interaction to provide seamless experiences connecting the conversations from one modality to another. This exercise is beneficial because an intelligent system will continuously grow with newly added devices and agents. Designers need a holistic view of how the conversation could fluently switch among agents with alternative modalities. In this way, designers will create seamless conversational interactions to help people reach their goals easily and efficiently.
+This course delves into the captivating realm of intelligent machines and their social interactions, encompassing social robots, voice user interfaces, and chatbots. Beyond the surface, it explores the art of conversational design, emphasizing that it goes beyond creating interfaces that merely talk or chat—it's about understanding that a meaningful conversation begins with an unspoken agreement and thrives on cooperation toward a goal. Throughout the course, we navigate design principles to craft intuitive interactions with digital systems, questioning whether a system can adeptly use modalities to align with diverse contexts and activities. Informed by Human-Computer Interaction studies on human-human conversations, we identify essential qualities, including being goal-oriented, cooperative, context-aware, quick, straightforward, turn-based, truthful, polite, and error-tolerant. The course unfolds in two parts, where students comprehensively study these conversational qualities, individually developing interaction concepts using modalities such as voice, text, gesture, haptic, or tangible. Utilizing the interaction-attention continuum, we analyze interaction flows in broader contexts, expanding interactions to provide seamless experiences connecting conversations across modalities. This exercise is crucial given the continuous evolution of intelligent systems. Designers gain a holistic view of how conversations can fluently transition among agents using alternative modalities, ultimately empowering them to create seamless conversational interactions facilitating individuals in achieving their goals easily and efficiently.
 
 #### My role
-- 2023–: lecturer.
+- 2023–: Instructor.
 
-#### Learning goals
-This course aims to enhance students' competencies in the following two expertise areas: (1) Creativity and Aesthetics, (2) Technology and Realization. The teaching program will introduce and discuss related theories and methods of designing conversational interactions. Students will apply learned knowledge with the term project and reflect on their practice to improve their design attitude, skill, and understanding. Overall, we break down the goal into the following six objectives. For every lecture and assignment, students can see the mark of the relevant objectives:
-- **L1**. Understanding the essential qualities of a successful conversational design.
-- **L2**. Using the methodological and theoretical knowledge of analysing conversations and creating interaction designs.
-- **L3**. Embodying the conversational qualities in creating proper designs that can fit the interaction context.
-- **L4**. Describing differences between modalities and benefits of multi-modal feedback.
-- **L5**. Creating appropriate user experiences in switching the conversations through different modalities.
-- **L6**. Using AI prototyping tools in crafting good designs with aesthetic qualities.
+#### Learning objectives
+The primary objectives of this course are to equip participants with a comprehensive understanding of the fundamentals, hardware, software, and communication components inherent in both existing and emerging Information Communication Technology (ICT) systems. Recognizing the rapidly evolving technological landscape, the course places a particular emphasis on explaining emerging and disruptive technologies, ensuring participants are well-versed in the latest advancements. Additionally, the course aims to foster the effective use of basic ICT tools and applications, empowering participants to navigate and leverage these tools proficiently. Complementing this, participants will develop a profound understanding of the process modeling required for effective problem-solving, enhancing their analytical and strategic thinking skills in the realm of ICT.
+By the end of this course, participants will:
+- **Objective 1**. Understand the fundamentals, hardware, software, and communication components of existing and emerging ICT systems.
+- **Objective 2**. Explain the emerging and disruptive technologies.
+- **Objective 3**. Effective use of basic ICT tools and applications.
+- **Objective 4**. Understand the process modeling for problem-solving.
+
+#### Course catalog description
+This course is a basic course that applies very widely. The skills students learn from this course would be very useful throughout BS studies and beyond. The course’s aims are the following:
+- **Aim 1**. To familiarize students with the usage of ICT.
+- **Aim 2**. Knowledge of ICT including new and emerging technologies.
+- **Aim 3**. Ensure skills to enhance work produced in a range of contexts.
+- **Aim 4**. Produce the ability to understand, recognize, and use secure solutions.
 
 #### Course setup
-One assignment will be published on Canvas one week before the first meeting. You will be asked to indicate your preference for the projects before the deadline mentioned in the announcement. After receiving students' registrations, you will be assigned to groups by the course coordinator. The allocation will be published in Canvas before the first meeting. In the first week of the quartile, you can start the project work immediately. The initial design challenges were described in the Project Description section on pp. 6-9.
+This comprehensive course is structured to provide a thorough assessment of participants' knowledge and skills through a multifaceted approach. The assessment framework comprises assignments, mid-term exams, and quizzes, with assignments weighing 15%, mid-term exams at 25%, and quizzes collectively contributing 15%. These components collectively contribute to a holistic evaluation of theoretical understanding and practical application. Complementing this, the course integrates a practical lab component, featuring lab tasks, assignments, a project, and exams. Lab tasks, numbering 12 and carrying a 35% weightage, reinforce practical skills, while assignments and a project, totaling 20%, bridge theoretical concepts with real-world scenarios. The mid-term lab exam, at 15%, assesses practical skills, and quizzes, at 10%, ensure ongoing engagement. The final lab exam, with a 20% weightage, provides a comprehensive evaluation of participants' practical proficiency, culminating in a well-rounded assessment approach that ensures a thorough grasp of the course material.
 
 #### Course schedule and deliverables
 In this course, students will learn several design principles and techniques for creating appropriate experiences of conversational designs. Students will also read literature and apply all the knowledge through practising with a design project. To empower students’ learning-by-doing practice, we integrate the user-centre-design and double-diamond process with the weekly topics and assignments. The overall program is presented in the following diagram, followed by the descriptions of the weekly teaching plan.
 
-<img src="{{ site.url }}{{ site.baseurl }}/courses/DCM220-schedule.jpg" class="img-responsive"/>
+<img src="{{ site.url }}{{ site.baseurl }}/courses/ict_course.png" class="img-responsive"/>

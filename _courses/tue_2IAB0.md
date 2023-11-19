@@ -1,17 +1,17 @@
 ---
-title: "2IAB0: Data analytics for engineers"
+title: "CS181: Introduction/Application of Information and Communication Technologies"
 layout: course
 sitemap: false
-name: Data analytics for engineers
-name_url: https://educationguide.tue.nl/programs/bachelor-college/basic-courses/data-analytics-for-engineers/?L=2
+name: Information and communication technologies
+name_url: https://www.hec.gov.pk/english/services/universities/RevisedCurricula/Documents/2011-2012/Education/ICTsEdu_Sept13.pdf
 year_start: 2023
 year_end: 
 institution: TU/e
-type: bsc
-students: 1200+
-code: 2IAB0
-subheading: Basics of data analytics with Python
-pdf: 
+type: bs
+students: 56
+code: CS181
+subheading: Mastering the fundamentals of cybersecurity and staying updated on technological advancements
+pdf: ict_course
 comment: 
 ---
 #### Introduction

@@ -5,8 +5,8 @@ sitemap: false
 name: Application of information and communication technologies
 name_url: https://www.hec.gov.pk/english/services/universities/RevisedCurricula/Documents/2011-2012/Education/ICTsEdu_Sept13.pdf
 year_start: 2023
-year_end: 2023
-institution: University
+year_end:
+institution: TU/e
 type: bsc
 students: 56
 code: CS181

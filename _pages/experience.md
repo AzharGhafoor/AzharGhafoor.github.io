@@ -10,7 +10,8 @@ permalink: /experience/
 {% if site.data.cytomate %}
 <!-- Sort courses by year -->
 {% assign students = site.data.cytomate | sort: 'year' | reverse %}
-## Cyber Security Lab
+## Cyber Security Analyst
+[Cytomate Solutions & Services](https://cytomate.net/)    `Qatar`    `2022-2023`
 <div class="rowl1" style="padding-top: 10px;">
 
 {% for student in students %}

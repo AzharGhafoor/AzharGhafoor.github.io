@@ -12,7 +12,7 @@ google_analytics: G-7BE63RZMTW
 # Location info. (shown in footer)
 location: >
   Street #18, New Chatta Bakhtawar<br/>
-  Postal Code 44000<br/>
+  Postal Code 46000<br/>
   Near COMSATS University Islamabad<br/>
   Pakistan<br/>
 
@@ -26,8 +26,9 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
-  - name: team
+  - name: experience
+#  - name: software
+# - name: team
   - name: education
   - name: volunteering
 

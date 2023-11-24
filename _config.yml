@@ -26,8 +26,8 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  # - name: software
-  # - name: team
+  - name: software
+  - name: team
   - name: education
   - name: volunteering
 

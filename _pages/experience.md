@@ -12,10 +12,7 @@ permalink: /experience/
 {% assign courses = site.courses | sort: 'year_start' | reverse %}
 
 ## Cyber Security Analyst
-[Cytomate Solutions & Services](https://cytomate.net/) `2022-2023` 
-
-## Cyber Security Analyst  
-##### Cytomate, Qatar (2022–2023)
+[Cytomate Solutions & Services](https://cytomate.net/)    `Qatar`    `2022-2023` 
 <div class="rowl1" style="padding-top: 10px;">
 
 {% for course in courses %}

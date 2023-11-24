@@ -92,9 +92,9 @@ permalink: /education/
 {% endif %}
 
 
-{% if site.data.supervision_msc %}
+{% if site.data.manuals %}
 <!-- Sort courses by year -->
-{% assign students = site.data.supervision_msc | sort: 'year' | reverse %}
+{% assign students = site.data.manuals | sort: 'year' | reverse %}
 ## Supervision of MSc students and student groups
 <div class="rowl1" style="padding-top: 10px;">
 
@@ -108,7 +108,7 @@ permalink: /education/
       {% endif %}
   {% endif %}
 
-{{ forloop.index }}. {% if student.name_url %}<a href="{{ student.name_url }}" target="_blank">{% endif %} <strong>{{ student.name }}</strong> {% if student.name_url %}</a>{% endif %} ({{ student.year }}) {% if student.status == 'notstarted' %}<button class="btn-notstarted">NOT STARTED</button>{% endif %}{% if student.status == 'inprogress' %}<button class="btn-inprogress">IN PROGRESS</button>{% endif %}{% if student.status == 'completed' %}<button class="btn-completed">COMPLETED</button>{% endif %}{% if student.comment %} – {{ student.comment }}{% endif %}
+{{ forloop.index }}. {% if student.name_url %}<a href="{{ student.name_url }}" target="_blank">{% endif %} <strong>{{ student.name }}</strong> {% if student.name_url %}</a>{% endif %} ({{ student.year }}) {% if student.status == 'notstarted' %}<button class="btn-notstarted">NOT STARTED</button>{% endif %}{% if student.status == 'available' %}<button class="btn-inprogress">IN PROGRESS</button>{% endif %}{% if student.status == 'published' %}<button class="btn-completed">COMPLETED</button>{% endif %}{% if student.comment %} – {{ student.comment }}{% endif %}
 <br/>
 <i>{{ student.project }}</i>{% if pdffile %} (<a href="{{ pdffile }}" target="_blank">link</a>){% endif %}.
 

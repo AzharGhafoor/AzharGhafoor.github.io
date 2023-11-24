@@ -12,8 +12,8 @@ permalink: /experience/
 {% assign students = site.data.cytomate | sort: 'year' | reverse %}
 ## Cyber Security Analyst
 [Cytomate Solutions & Services](https://cytomate.net/)    `Qatar`    `2022-2023`
-- Measuring The Effectiveness Of Geotagging In Cyber Deception
-- Measuring The Effectiveness Of Geotagging In Cyber Deception
+Measuring The Effectiveness Of Geotagging In Cyber Deception <br>
+Measuring The Effectiveness Of Geotagging In Cyber Deception
 
 
 

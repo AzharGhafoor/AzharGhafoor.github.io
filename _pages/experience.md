@@ -12,7 +12,7 @@ permalink: /experience/
 {% assign courses = site.courses | sort: 'year_start' | reverse %}
 
 ## Cyber Security Analyst
-#### Cytomate Solutions & Services
+#### Cytomate Solutions & Services\
 #### Doha, Qatar (2022–2023)
 <div class="rowl1" style="padding-top: 10px;">
 

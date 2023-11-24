@@ -77,25 +77,11 @@ permalink: /education/
 
 
 
-{% if site.data.lectures %}
-<!-- Sort lectures by year -->
-{% assign lectures = site.data.lectures | sort: 'year' | reverse %}
-
-## Hands-On Cybercraft
-<div class="rowl1" style="padding-top: 10px;">
-
-{% for lecture in lectures %}
-  {{ forloop.index }}. {{ lecture.name }} ({{ lecture.year }}).
-{% endfor %}
-
-</div>
-{% endif %}
-
 
 {% if site.data.manuals %}
 <!-- Sort courses by year -->
 {% assign students = site.data.manuals | sort: 'year' | reverse %}
-## Supervision of MSc students and student groups
+## Hands-On Cybercraft
 <div class="rowl1" style="padding-top: 10px;">
 
 {% for student in students %}
@@ -108,7 +94,7 @@ permalink: /education/
       {% endif %}
   {% endif %}
 
-{{ forloop.index }}. {% if student.name_url %}<a href="{{ student.name_url }}" target="_blank">{% endif %} <strong>{{ student.name }}</strong> {% if student.name_url %}</a>{% endif %} ({{ student.year }}) {% if student.status == 'notstarted' %}<button class="btn-notstarted">NOT STARTED</button>{% endif %}{% if student.status == 'available' %}<button class="btn-inprogress">IN PROGRESS</button>{% endif %}{% if student.status == 'published' %}<button class="btn-completed">COMPLETED</button>{% endif %}{% if student.comment %} – {{ student.comment }}{% endif %}
+{{ forloop.index }}. {% if student.name_url %}<a href="{{ student.name_url }}" target="_blank">{% endif %} <strong>{{ student.name }}</strong> {% if student.name_url %}</a>{% endif %} ({{ student.year }}) {% if student.status == 'notstarted' %}<button class="btn-notstarted">NOT STARTED</button>{% endif %}{% if student.status == 'available' %}<button class="btn-inprogress">AVAILABLE</button>{% endif %}{% if student.status == 'published' %}<button class="btn-completed">PUBLISHED</button>{% endif %}{% if student.comment %} – {{ student.comment }}{% endif %}
 <br/>
 <i>{{ student.project }}</i>{% if pdffile %} (<a href="{{ pdffile }}" target="_blank">link</a>){% endif %}.
 

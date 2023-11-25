@@ -91,19 +91,19 @@ permalink: /about/
 
 ## Hands-On Tools
 <div class="rowl1" style="padding-top: 10px;">
-`ISO-27001` `NIA Policy 2.0` `NIA Standard 2.1` `NIST Standards` `PCI-DSS` `HIPPA` `Personal Data Protection Law - Qatar` `Emekie` `Splunk SIEM` `QRadar SIEM` `Wazuh EDR` `Snort IDS/IPS` `Suricata IDS` `Nmap` `Cuckoo Sandbox` `Python` `Clustering - Machine Learning` `Anomaly Detection` `Classification - Machine Learning` `Pandas - Data Analytics` `Linux (Kali, Ubuntu)` `Google Dorking` `theHarvester` `Amass` `Mimikatz` `Metasploit` `httpX` `Metasploitable` `Recon-ng` `Censys` `Shodan` `Gophish` `W3af` `Nuclei` `Wapiti` `Dalfox` `Wappalyze` `Burpsuite` `OWASP Zap` `Sublist3r` `Subfinder` `VMware` `Virtual Box` `Whois` `Wireshark` `Anaconda Distribution` `Ettercap` `Ffuf` `Dirbuster` `Wfuzz` `Hydra` `Medusa` `Hashcat` `XSStrike` `PwnXSS` `Sqlmap` `Ghouri` `Dionaea` `Cowrie` `Snare\&Tanner` `Conpot` `Office 365` `Proxmox` `Teams` `Trello` `MS Azure` `Google Cloud Platform` `WireGuard` `Mx Toolbox`
+`ISO-27001` `NIA Policy 2.0` `NIA Standard 2.1` `NIST Standards` `PCI-DSS` `HIPPA` `Personal Data Protection Law - Qatar` `Emekie` `Splunk SIEM` `QRadar SIEM` `Wazuh EDR` `Snort IDS/IPS` `Suricata IDS` `Nmap` `Cuckoo Sandbox` `Python` `Clustering - Machine Learning` `Anomaly Detection` `Classification - Machine Learning` `Pandas - Data Analytics` `Linux (Kali, Ubuntu)` `Google Dorking` `theHarvester` `Amass` `Mimikatz` `Metasploit` `httpX` `Metasploitable` `Recon-ng` `Censys` `Shodan` `Gophish` `W3af` `Nuclei` `Wapiti` `Dalfox` `Wappalyze` `Burpsuite` `OWASP Zap` `Sublist3r` `Subfinder` `VMware` `Virtual Box` `Whois` `Wireshark` `Anaconda Distribution` `Ettercap` `Ffuf` `Dirbuster` `Wfuzz` `Hydra` `Medusa` `Hashcat` `XSStrike` `PwnXSS` `Sqlmap` `Ghouri` `Dionaea` `Cowrie` `Snare&Tanner` `Conpot` `Office 365` `Proxmox` `Teams` `Trello` `MS Azure` `Google Cloud Platform` `WireGuard` `Mx Toolbox` `Github` `Latex` `WAF Testing` `Cloud Enum` `Autopsy` `Matplotlib` `Flask` `Requests` `Beautiful Soup` `Scrapy` `Seaborn` `Scikit-learn` `NLTK` `Auto Encoder` `Joblib` `Transformers` 
 </div>
 
 
 ## Hands-On Tools
 <div class="rowl1" style="padding-top: 10px;">
 ```
-- GRC and Compliance
-- Cybersecurity Community Engagement
-- Cybersecurity Training and Education
-- Cybersecurity Research and Practical
-- Learning New Languages & Cultures 
-- Gym and Fitness
+1. GRC and Compliance
+2. Cybersecurity Community Engagement
+3. Cybersecurity Training and Education
+4. Cybersecurity Research and Practical
+5. Learning New Languages & Cultures 
+6. Gym and Fitness
 ```
 </div>
 

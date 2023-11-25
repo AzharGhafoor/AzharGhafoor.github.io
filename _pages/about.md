@@ -113,8 +113,8 @@ permalink: /about/
 ```
 1. Urdu :pk:   <!-- Pakistan -->
 2. English :us:   <!-- United States -->
-:pk:   <!-- Pakistan -->
-:us:   <!-- United States -->
+https://progress-bar.dev/100/?title=urdu
+https://progress-bar.dev/80/?title=english
 ```
 </div>
 

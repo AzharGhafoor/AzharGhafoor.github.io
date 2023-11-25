@@ -79,14 +79,14 @@ permalink: /about/
 
 
 
-|    <button class="btn-completed">Technical Skills</button>             | <button class="btn-completed">Soft Skills</button>               |
+|  ## Technical Skills | ## Soft Skills |
 |----------------------------------|-----------------------------|
-| **Cyber Deception:**  <p align="justify">Expert in creating deceptive systems to mislead attackers. </p>                | **Analytical Thinking:** <p align="justify"> I analyze complex data to spot patterns and identify security vulnerabilities. </p>       |
-| **Logs Analysis:**  <p align="justify">Extensive experience in analyzing and interpreting logs for security insights. </p>                  | **Communication Skills:**  <p align="justify">I communicate technical concepts clearly for effective collaboration in cybersecurity. </p>        |
-| **Python Tools Customization:**  <p align="justify">Proficient in customizing tools using Python for enhanced cybersecurity functionality. </p>     | **Adaptability:**  <p align="justify">I adapt swiftly to evolving cybersecurity landscapes, addressing emerging threats proactively.  </p>               |
-| **Machine Learning Models:**  <p align="justify">Skilled in both utilizing and creating machine learning models for cybersecurity.   </p>      | **Attention to Detail:**  <p align="justify">I pay meticulous attention to detail, ensuring thorough security system examinations and precise documentation.  </p>       |
-| **Employee Training Campaigns:**  <p align="justify">Develops and executes phishing awareness campaigns for employee training.   </p>           | **Ethical Judgement:**  <p align="justify">I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. </p>           |
-| **Compliance Auditing Knowledge:**  <p align="justify">Knowledgeable in auditing firms for compliance with various standards and frameworks.  </p>    |                             **Long Life Learning:**  <p align="justify">I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. </p>
+| <button class="btn-completed">Cyber Deception</button> <p align="justify">Expert in creating deceptive systems to mislead attackers. </p> | <button class="btn-completed">Analytical Thinking</button> <p align="justify"> I analyze complex data to spot patterns and identify security vulnerabilities. </p> |
+| <button class="btn-completed">Logs Analysis</button> <p align="justify">Extensive experience in analyzing and interpreting logs for security insights. </p> | <button class="btn-completed">Communication Skills</button>  <p align="justify">I communicate technical concepts clearly for effective collaboration in cybersecurity. </p> |
+| <button class="btn-completed">Python Tools Customization</button> <p align="justify">Proficient in customizing tools using Python for enhanced cybersecurity functionality. </p> | <button class="btn-completed">Adaptability</button> <p align="justify">I adapt swiftly to evolving cybersecurity landscapes, addressing emerging threats proactively.  </p> |
+| <button class="btn-completed">Machine Learning Models</button>  <p align="justify">Skilled in both utilizing and creating machine learning models for cybersecurity.   </p> |<button class="btn-completed">Attention to Detail</button> <p align="justify">I pay meticulous attention to detail, ensuring thorough security system examinations and precise documentation.  </p>|
+| <button class="btn-completed">Employee Training Campaigns</button>  <p align="justify">Develops and executes phishing awareness campaigns for employee training.   </p> | <button class="btn-completed">Ethical Judgement</button>  <p align="justify">I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. </p> |
+| <button class="btn-completed">Compliance Auditing Knowledge</button>  <p align="justify">Knowledgeable in auditing firms for compliance with various standards and frameworks.  </p>    |<button class="btn-completed">Long Life Learning</button> <p align="justify">I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. </p>
 
 
 

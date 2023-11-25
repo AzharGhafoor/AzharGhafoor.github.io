@@ -21,7 +21,7 @@ permalink: /talks/
 <div class="rowl1" style="padding-top: 10px;">
 
 {% for session in site.data.chairing %}
-{{ forloop.index }}. {% if session.link %}<a href="{{ session.link }}" target="_blank">{% endif %}<strong>{{ session.title }}</strong>{% if session.link %}</a>{% endif %} ({{ session.year }}){% if session.subtitle %} {{ session.subtitle }}{% endif %}<br/>{{ session.conf }}.
+{{ forloop.index }}. {% if session.link %}<a href="{{ session.link }}" target="_blank">{% endif %}<strong>{{ session.title }}</strong>{% if session.link %}</a>{% endif %} ({{ session.year }}){% if session.subtitle %} {{ session.subtitle }}{% endif %}<br/>{{ session.conf }}
 {% endfor %}
 </div>
 {% endif %}

@@ -86,7 +86,7 @@ permalink: /about/
 | <button class="btn-completed">Python Tools Customization</button> Proficient in customizing tools using Python for enhanced cybersecurity functionality. | <button class="btn-completed">Adaptability</button> Adapting swiftly to evolving cybersecurity landscapes, addressing emerging threats proactively. |
 | <button class="btn-completed">Machine Learning Models</button> Skilled in both utilizing and creating machine learning models for cybersecurity. | <button class="btn-completed">Attention to Detail</button> Paying meticulous attention to detail, ensuring thorough security system examinations and precise documentation. |
 | <button class="btn-completed">Employee Training Campaigns</button> Develops and executes phishing awareness campaigns for employee training. | <button class="btn-completed">Ethical Judgement</button> Maintaining high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. |
-| <button class="btn-completed">Compliance Auditing Knowledge</button> Knowledgeable in auditing firms for compliance with various standards and frameworks. | <button class="btn-completed"> Long Life Learning</button> Maintaining high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements.
+| <button class="btn-completed">Compliance Auditing Knowledge</button> Knowledgeable in auditing firms for compliance with various standards and frameworks. | <button class="btn-completed"> Long Life Learning</button> Passion for staying up to date with latest technologies and best practices.
 
 
 

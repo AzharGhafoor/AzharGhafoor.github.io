@@ -14,7 +14,7 @@ permalink: /experience/
 - Measuring The Effectiveness Of Geotagging In Cyber Deception <br>
 - Measuring The Effectiveness Of Geotagging In Cyber Deception
 ```
-
+</div>
 
 
 {% if site.data.thesis_azhar %}

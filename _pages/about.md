@@ -79,9 +79,9 @@ permalink: /about/
 
 ## Skills 
 
-| Technical Skills | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soft Skills |
+| Technical Skills | Soft Skills |
 |---------------------------------------------------|---------------------------------------------------------|
-| <button class="btn-completed">Expert in creating deceptive systems</button> | <button class="btn-inprogress">Analyzing complex data to spot patterns</button> |
+| <button class="btn-completed">Expert in creating deceptive systems</button> |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <button class="btn-inprogress">Analyzing complex data to spot patterns</button> |
 | <button class="btn-completed">Analyzing and interpreting logs</button> | <button class="btn-inprogress">Communicating technical concepts clearly & effectively </button> |
 | <button class="btn-completed">Customization & Creation of python tools </button> | <button class="btn-inprogress">Adapting swiftly to evolving cybersecurity landscapes</button> |
 | <button class="btn-completed">Utilizing and creating machine learning models</button> | <button class="btn-inprogress">Paying meticulous attention to detail</button> |

@@ -25,7 +25,7 @@ nav_pages:
   - name: about
   - name: publications
   - name: talks
-  - name: research
+ # - name: research
   - name: experience
 #  - name: software
 # - name: team

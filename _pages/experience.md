@@ -19,8 +19,6 @@ permalink: /experience/
 - <p align="justify">Conducted in-depth log analysis using advanced machine learning models to uncover hidden malicious patterns and identify threats in their early stages. This initiative strengthened the overall security posture and reduced the detection time for attacks by 70%.</p>
 - <p align="justify">Deployed network protection technologies, including IDS/IPS and firewalls, and seamlessly integrated them with various SIEM solutions such as [QRadar](https://www.ibm.com/community/qradar/ce/), [Wazuh](https://wazuh.com/), and [Splunk](https://www.splunk.com/).</p>
 - <p align="justify">Collaborated effectively with cross-functional teams on multiple cybersecurity projects, demonstrating excellent communication and teamwork skills.</p>
-
-```
 </div>
 
 

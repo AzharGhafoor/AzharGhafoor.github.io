@@ -110,10 +110,8 @@ permalink: /about/
 
 ## Languages
 <div class="rowl1" style="padding-top: 10px;">
-```
 1. Urdu
 2. English
-```
 </div>
 
 

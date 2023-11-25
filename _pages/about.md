@@ -79,7 +79,7 @@ permalink: /about/
 
 ## Skills 
 
-| Technical Skills | Soft Skills |
+| Technical Skillss | Soft Skills |
 |---------------------------------------------------|---------------------------------------------------------|
 | <button class="btn-completed">Cyber Deception</button> <br> - Expert in creating deceptive systems to mislead attackers. | <button class="btn-completed">Analytical Thinking</button> <br> - I analyze complex data to spot patterns and identify security vulnerabilities. |
 | <button class="btn-completed"><br> - Logs Analysis</button> Extensive experience in analyzing and interpreting logs for security insights. | <button class="btn-completed"><br>  - Communication Skills</button> I communicate technical concepts clearly for effective collaboration in cybersecurity. |

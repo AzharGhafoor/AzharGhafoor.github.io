@@ -79,8 +79,8 @@ permalink: /about/
 
 
 
-|  ## Technical Skills | ## Soft Skills |
-|----------------------------------|-----------------------------|
+|  <h2 style="text-align: justify;"> Technical Skills </h2> | <h2 style="text-align: center;"> Soft Skills </h2>  |
+|:----------------------------------:|:-----------------------------:|
 | <button class="btn-completed">Cyber Deception</button> <p align="justify">Expert in creating deceptive systems to mislead attackers. </p> | <button class="btn-completed">Analytical Thinking</button> <p align="justify"> I analyze complex data to spot patterns and identify security vulnerabilities. </p> |
 | <button class="btn-completed">Logs Analysis</button> <p align="justify">Extensive experience in analyzing and interpreting logs for security insights. </p> | <button class="btn-completed">Communication Skills</button>  <p align="justify">I communicate technical concepts clearly for effective collaboration in cybersecurity. </p> |
 | <button class="btn-completed">Python Tools Customization</button> <p align="justify">Proficient in customizing tools using Python for enhanced cybersecurity functionality. </p> | <button class="btn-completed">Adaptability</button> <p align="justify">I adapt swiftly to evolving cybersecurity landscapes, addressing emerging threats proactively.  </p> |

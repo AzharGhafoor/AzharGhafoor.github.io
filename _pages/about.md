@@ -81,12 +81,12 @@ permalink: /about/
 
 | Technical Skills | Soft Skills |
 |---------------------------------------------------|---------------------------------------------------------|
-| <button class="btn-completed">Cyber Deception</button> Expert in creating deceptive systems to mislead attackers. | <button class="btn-completed">Analytical Thinking</button> Analyzing complex data to spot patterns and identify security vulnerabilities. |
-| <button class="btn-completed">Logs Analysis</button> Extensive experience in analyzing and interpreting logs for security insights. | <button class="btn-completed">Communication Skills</button> Communicating technical concepts clearly for effective collaboration in cybersecurity. |
-| <button class="btn-completed">Python Tools Customization</button> Proficient in customizing tools using Python for enhanced cybersecurity functionality. | <button class="btn-completed">Adaptability</button> Adapting swiftly to evolving cybersecurity landscapes, addressing emerging threats proactively. |
-| <button class="btn-completed">Machine Learning Models</button> Skilled in both utilizing and creating machine learning models for cybersecurity. | <button class="btn-completed">Attention to Detail</button> Paying meticulous attention to detail, ensuring thorough security system examinations and precise documentation. |
-| <button class="btn-completed">Employee Training Campaigns</button> Develops and executes phishing awareness campaigns for employee training. | <button class="btn-completed">Ethical Judgement</button> Maintaining high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. |
-| <button class="btn-completed">Compliance Auditing Knowledge</button> Knowledgeable in auditing firms for compliance with various standards and frameworks. | <button class="btn-completed"> Long Life Learning</button> Passion for staying up to date with latest technologies and best practices.
+| <button class="btn-completed">Expert in creating deceptive systems</button> | <button class="btn-incompleted">Analyzing complex data to spot patterns</button> |
+| <button class="btn-completed">Analyzing and interpreting logs</button> | <button class="btn-incompleted">Communicating technical concepts clearly & effectively </button> |
+| <button class="btn-completed">Customization & Creation of python tools </button> | <button class="btn-incompleted">Adapting swiftly to evolving cybersecurity landscapes</button> |
+| <button class="btn-completed">Skilled in utilizing and creating machine learning models</button> | <button class="btn-incompleted">Paying meticulous attention to detail</button> |
+| <button class="btn-completed">Employee Training Campaigns</button> | <button class="btn-incompleted">Ethical Judgement in handling sensitive information</button> |
+| <button class="btn-completed">Knowledgeable in auditing firms for compliance</button> | <button class="btn-incompleted"> Passion for staying up to date with latest technologies</button>
 
 
 ## Hands-On Tools

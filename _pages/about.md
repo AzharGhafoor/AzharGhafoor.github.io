@@ -77,34 +77,17 @@ permalink: /about/
 
 
 
-
-
-|  <h2 style="text-align: justify;"> Technical Skills </h2> | <h2 style="text-align: center;"> Soft Skills </h2>  |
+## Skills 
+<div class="rowl1" style="padding-top: 10px; text-align: justify;">
+| Technical Skills | Soft Skills |
 |:---------------------------------------------------:|:---------------------------------------------------------:|
-| <p style="text-align: justify;"><button class="btn-completed">Cyber Deception</button>Expert in creating deceptive systems to mislead attackers. </p> | <p style="text-align: justify;"><button class="btn-completed">Analytical Thinking</button> I analyze complex data to spot patterns and identify security vulnerabilities. </p> |
-| <p style="text-align: justify;"><button class="btn-completed">Logs Analysis</button> Extensive experience in analyzing and interpreting logs for security insights. </p> | <p style="text-align: justify;"><button class="btn-completed">Communication Skills</button> I communicate technical concepts clearly for effective collaboration in cybersecurity. </p> |
-|<p style="text-align: justify;"> <button class="btn-completed">Python Tools Customization</button> Proficient in customizing tools using Python for enhanced cybersecurity functionality. </p> | <p style="text-align: justify;"><button class="btn-completed">Adaptability</button> I adapt swiftly to evolving cybersecurity landscapes, addressing emerging threats proactively.  </p> |
-| <p style="text-align: justify;"><button class="btn-completed">Machine Learning Models</button> Skilled in both utilizing and creating machine learning models for cybersecurity.   </p> | <p style="text-align: justify;"><button class="btn-completed">Attention to Detail</button> I pay meticulous attention to detail, ensuring thorough security system examinations and precise documentation.  </p>|
-| <p style="text-align: justify;"><button class="btn-completed">Employee Training Campaigns</button> Develops and executes phishing awareness campaigns for employee training.   </p> | <p style="text-align: justify;"><button class="btn-completed">Ethical Judgement</button> I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. </p> |
-| <p style="text-align: justify;"><button class="btn-completed">Compliance Auditing Knowledge</button> Knowledgeable in auditing firms for compliance with various standards and frameworks.  </p>    | <p style="text-align: justify;"><button class="btn-completed">Long Life Learning</button> I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. </p>
-
-
-
-
-
-| Header 1 | Header 2 | Header 3 |
-|:---------|:---------|:---------|
-| Left     | Center   | Right    |
-| <p style="text-align: justify;">Left justified text</p> | <p style="text-align: justify;">Center justified text</p> | <p style="text-align: justify;">Right justified text</p> |
-
-
-
-
-| <h2>hello</h2>| Header 2 | Header 3 |
-|:---------|:---------|:---------|
-| Left     | Center   | Right    |
-| <p style="text-align: justify;">Left justified text</p> | <p style="text-align: justify;">Center justified text</p> | <p style="text-align: justify;">Right justified text</p> |
-
+| <button class="btn-completed">Cyber Deception</button>Expert in creating deceptive systems to mislead attackers. | <button class="btn-completed">Analytical Thinking</button> I analyze complex data to spot patterns and identify security vulnerabilities. |
+| <button class="btn-completed">Logs Analysis</button> Extensive experience in analyzing and interpreting logs for security insights. | <button class="btn-completed">Communication Skills</button> I communicate technical concepts clearly for effective collaboration in cybersecurity. |
+| <button class="btn-completed">Python Tools Customization</button> Proficient in customizing tools using Python for enhanced cybersecurity functionality. | <button class="btn-completed">Adaptability</button> I adapt swiftly to evolving cybersecurity landscapes, addressing emerging threats proactively. |
+| <button class="btn-completed">Machine Learning Models</button> Skilled in both utilizing and creating machine learning models for cybersecurity. | <button class="btn-completed">Attention to Detail</button> I pay meticulous attention to detail, ensuring thorough security system examinations and precise documentation. |
+| <button class="btn-completed">Employee Training Campaigns</button> Develops and executes phishing awareness campaigns for employee training. | <button class="btn-completed">Ethical Judgement</button> I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. |
+| <button class="btn-completed">Compliance Auditing Knowledge</button> Knowledgeable in auditing firms for compliance with various standards and frameworks. | <button class="btn-completed"> Long Life Learning</button> I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements.
+</div>
 
 
 

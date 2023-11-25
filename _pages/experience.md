@@ -21,53 +21,21 @@ permalink: /experience/
 - <p align="justify">Collaborated effectively with cross-functional teams on multiple cybersecurity projects, demonstrating excellent communication and teamwork skills.</p>
 </div>
 
-
-{% if site.data.thesis_azhar %}
-<!-- Sort courses by year -->
-{% assign students = site.data.thesis_azhar | sort: 'year' | reverse %}
-## Cyber Security Lab
+## Cyber Security Researcher
+<button class="btn-completed">[Cybersecurity Researcher](http://ww2.comsats.edu.pk/cs/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2021 - 2022</button>
 <div class="rowl1" style="padding-top: 10px;">
-
-{% for student in students %}
-  {% assign pdffile = false %}
-  {% if student.project_url %}
-      {% if student.project_url contains '://' %}
-        {% assign pdffile = student.project_url %}
-      {% else %}
-        {% assign pdffile = "/publications/students/" | append:  student.project_url  | append: ".pdf" %}
-      {% endif %}
-  {% endif %}
-
-{{ forloop.index }}. {% if student.name_url %}<a href="{{ student.name_url }}" target="_blank">{% endif %} <strong>{{ student.name }}</strong> {% if student.name_url %}</a>{% endif %} ({{ student.year }}) {% if student.status == 'notstarted' %}<button class="btn-notstarted">NOT STARTED</button>{% endif %}{% if student.status == 'inprogress' %}<button class="btn-inprogress">IN PROGRESS</button>{% endif %}{% if student.status == 'completed' %}<button class="btn-completed">COMPLETED</button>{% endif %}{% if student.comment %} – {{ student.comment }}{% endif %}
-<br/>
-<i>{{ student.project }}</i>{% if pdffile %} (<a href="{{ pdffile }}" target="_blank">link</a>){% endif %}.
-
-{% endfor %}
+- <p align="justify">Contributed to advanced cybersecurity projects aimed at luring attackers away from real organizational assets by deploying decoy-based deception systems.</p>
+- <p align="justify">Profiling threat actors based on their malicious intents and level of severity for any firm.</p>
+- <p align="justify">Investigated adversaries' collaborative efforts to launch attacks.</p>
+- <p align="justify">Developed models with advanced capabilities for [classifying web attacks](https://github.com/AzharGhafoor/PDF_XSS_PAYLOADS) using machine learning.</p>
 </div>
-{% endif %}
 
-
-
-{% if site.data.manuals %}
-<!-- Sort courses by year -->
-{% assign students = site.data.manuals | sort: 'year' | reverse %}
 ## Intern
+<button class="btn-completed">[Intern](https://www.aksa-sds.com/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2019 - 2019</button>
 <div class="rowl1" style="padding-top: 10px;">
-
-{% for student in students %}
-  {% assign pdffile = false %}
-  {% if student.project_url %}
-      {% if student.project_url contains '://' %}
-        {% assign pdffile = student.project_url %}
-      {% else %}
-        {% assign pdffile = "/publications/students/" | append:  student.project_url  | append: ".pdf" %}
-      {% endif %}
-  {% endif %}
-
-{{ forloop.index }}. {% if student.name_url %}<a href="{{ student.name_url }}" target="_blank">{% endif %} <strong>{{ student.name }}</strong> {% if student.name_url %}</a>{% endif %} ({{ student.year }}) {% if student.status == 'notstarted' %}<button class="btn-notstarted">NOT STARTED</button>{% endif %}{% if student.status == 'available' %}<button class="btn-inprogress">AVAILABLE</button>{% endif %}{% if student.status == 'published' %}<button class="btn-completed">PUBLISHED</button>{% endif %}{% if student.comment %} – {{ student.comment }}{% endif %}
-<br/>
-<i>{{ student.project }}</i>{% if pdffile %} (<a href="{{ pdffile }}" target="_blank">link</a>){% endif %}.
-
-{% endfor %}
+- <p align="justify">Completed research, compiled data, updated spreadsheets and produced timely reports.</p>
+- <p align="justify">Developed and maintained relationships with key internal stakeholders.</p>
+- <p align="justify">Maintained accurate records and documentation of projects to inform stakeholders of progress and updates.</p>
+- <p align="justify">Optimized the [Google knowledge panel](https://support.google.com/knowledgepanel/answer/9163198?hl=en) and developed a chat application.</p>
+- <p align="justify">Wrote technical documents related to software development and deployment.</p>
 </div>
-{% endif %}

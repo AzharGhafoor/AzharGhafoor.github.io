@@ -97,14 +97,12 @@ permalink: /about/
 
 ## Interests
 <div class="rowl1" style="padding-top: 10px;">
-```
 1. GRC and Compliance
 2. Cybersecurity Community Engagement
 3. Cybersecurity Training and Education
 4. Cybersecurity Research and Practical
 5. Learning New Languages & Cultures 
 6. Gym and Fitness
-```
 </div>
 
 

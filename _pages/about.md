@@ -95,7 +95,7 @@ permalink: /about/
 </div>
 
 
-## Hands-On Tools
+## Interests
 <div class="rowl1" style="padding-top: 10px;">
 ```
 1. GRC and Compliance

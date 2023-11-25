@@ -132,6 +132,7 @@ https://progress-bar.dev/80/?title=english
 
 
 ## Contact Me
+```
 <p align="center">
 <a href="https://twitter.com/_azhar_ghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_azhar_ghafoor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/azhar-ghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhar-ghafoor" height="30" width="40" /></a>
@@ -141,6 +142,5 @@ https://progress-bar.dev/80/?title=english
 <a href="https://www.researchgate.net/profile/Azhar-Ghafoor-3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="@Azhar-Ghafoor-3" height="30" width="40" /></a> 
 <a href="https://www.fiverr.com/azharghafoor39" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/129_Fiverr-512.png" alt="@Aazharghafoor39" height="30" width="40" /></a> 
 <a href="https://azharghafoor.netlify.app/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="@azharghafoor" height="40" width="40" /></a> 
-
 </p>
-
+```

@@ -111,10 +111,8 @@ permalink: /about/
 ## Languages
 <div class="rowl1" style="padding-top: 10px;">
 ```
-1. Urdu :pk:   <!-- Pakistan -->
-2. English :us:   <!-- United States -->
-https://progress-bar.dev/100/?title=urdu
-https://progress-bar.dev/80/?title=english
+1. Urdu
+2. English
 ```
 </div>
 

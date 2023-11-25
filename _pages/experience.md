@@ -44,5 +44,23 @@ permalink: /experience/
 ## Personal Projects
 <button class="btn-completed">[Azhar's Work](https://www.linkedin.com/in/azhar-ghafoor/)</button>  <button class="btn-inprogress">Self-paced</button><button class="btn-notstarted">2021 - Current</button>
 <div class="rowl1" style="padding-top: 10px;">
-- <p align="justify"><b>[Email Hunter](https://github.com/AzharGhafoor):</b>Completed research, compiled data, updated spreadsheets and produced timely reports.</p>
+- <p align="justify"><b>[Email Hunter](https://github.com/AzharGhafoor)</b> developed an innovative self-destructive email stealer that can extract emails from a victim’s computer, send them back to the request originator, and remove footsteps to avoid backtracking.</p>
+- <p align="justify"><b>[Email Verifier](https://github.com/AzharGhafoor)</b> created an API that lets you verify whether an email exists or not. It was purposed to deal with scenarios when you don't have information about company emails and you craft them on runtime and then want to test their existence.</p>
+- <p align="justify"><b>[Attacker Profile](https://github.com/AzharGhafoor)</b> After deploying decoys, created a comprehensive attacker profile to allow victim firms to learn about the foe and act quickly to deter such threat actors from returning.</p>
+- <p align="justify"><b>[Phishing Detector](https://github.com/AzharGhafoor)</b> a tool that determines if a received email is genuine or a phishing attempt and identifies the true sender by analyzing the email header and revealing the faked address.
+- <p align="justify"><b>[Email Header Analyzer](https://github.com/AzharGhafoor)</b> created a Python script based on Selenium that quickly and easily analyses the header of any email.</p>
+- <p align="justify"><b>[Cyber Deception Threat intelligence](https://github.com/AzharGhafoor)</b> deployed different interactive honeypots to attract attackers to abuse them and later analyzed that data to extract actionable insights for an organization to take mitigation actions.</p>
+- <p align="justify"><b>[IP Footprints](https://github.com/AzharGhafoor)</b> created a Python tool that examines an IP address to find its location and source organization and detects either a normal IP or a bad one. It also checks to see if it belongs to a real person or is a bot.</p>
+- <p align="justify"><b>[Binary Footprinting](https://github.com/AzharGhafoor)</b> to uncover collaborative efforts by attackers, I have designed a solution that can easily discover how many and which attackers are working in coordination against an organization by analyzing malicious payloads dropped by them.</p>
+- <p align="justify"><b>[Machine Learning enabled WAF](https://github.com/AzharGhafoor)</b> developed an ML model that classifies the web attacks into different classes, such as SQLi, XSS, LFI, Command Injection, etc., in an autonomous manner.</p>
+- <p align="justify"><b>[LinkedIn Scraping](https://github.com/AzharGhafoor)</b> created a Python-based scrapper to extract important information about a company's employees to start cybersecurity campaigns.</p>
+- <p align="justify"><b>[Multi Encoder](https://github.com/AzharGhafoor)</b> constructed an encoder that can encode web payloads using eleven different schemes and helps in bypassing malicious payloads from [Web Application Firewalls](https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/).</p>
+- <p align="justify"><b>[Sandboxing](https://github.com/AzharGhafoor)</b> created a Python tool to automatically submit the collected payloads to the Cuckoo sandbox and download reports after successful analysis, and extracted useful payload attributes from those reports.</p>
+- <p align="justify"><b>[VPN Detection](https://github.com/AzharGhafoor)</b> automated the process of VPN detection using various open-source tools to detect whether an attacker is using a VPN or not.</p>
+- <p align="justify"><b>[Forensics](https://github.com/AzharGhafoor)</b> used various tools for the forensics of audio tracks, images, documents, and emails to find hidden information, get contents from password-protected files, and share secret data by hiding it in various formats of files.</p>
+- <p align="justify"><b>[Data Visualizations](https://github.com/AzharGhafoor)</b> created a graphical representation after extracting threat intelligence from honeypot and firewall logs for executives to determine the system state and effectiveness of the approach.</p>
+- <p align="justify"><b>[IP2Country](https://github.com/AzharGhafoor)</b> developed an API with the capability of getting the verified origin of an attacker from his IP address.</p>
+- <p align="justify"><b>[Text2Image](https://github.com/AzharGhafoor)</b> as part of detecting vulnerabilities in an application project’s source, I wrote a Python script to convert text data to images.</p>
+
+
 </div>

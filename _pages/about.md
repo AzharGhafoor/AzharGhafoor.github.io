@@ -79,7 +79,7 @@ permalink: /about/
 
 ## Skills 
 
-| Technical Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Soft Skills |
+| Technical Skills | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soft Skills |
 |---------------------------------------------------|---------------------------------------------------------|
 | <button class="btn-completed">Expert in creating deceptive systems</button> | <button class="btn-inprogress">Analyzing complex data to spot patterns</button> |
 | <button class="btn-completed">Analyzing and interpreting logs</button> | <button class="btn-inprogress">Communicating technical concepts clearly & effectively </button> |

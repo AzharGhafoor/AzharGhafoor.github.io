@@ -22,7 +22,7 @@ permalink: /experience/
 </div>
 
 ## Cyber Security Researcher
-<button class="btn-completed">[Cybersecurity Researcher](http://ww2.comsats.edu.pk/cs/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2021 - 2022</button>
+<button class="btn-completed">[Cybersecurity Lab, CUI](http://ww2.comsats.edu.pk/cs/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2021 - 2022</button>
 <div class="rowl1" style="padding-top: 10px;">
 - <p align="justify">Contributed to advanced cybersecurity projects aimed at luring attackers away from real organizational assets by deploying decoy-based deception systems.</p>
 - <p align="justify">Profiling threat actors based on their malicious intents and level of severity for any firm.</p>
@@ -31,11 +31,18 @@ permalink: /experience/
 </div>
 
 ## Intern
-<button class="btn-completed">[Intern](https://www.aksa-sds.com/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2019 - 2019</button>
+<button class="btn-completed">[AKSA-SDS](https://www.aksa-sds.com/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2019 - 2019</button>
 <div class="rowl1" style="padding-top: 10px;">
 - <p align="justify">Completed research, compiled data, updated spreadsheets and produced timely reports.</p>
 - <p align="justify">Developed and maintained relationships with key internal stakeholders.</p>
 - <p align="justify">Maintained accurate records and documentation of projects to inform stakeholders of progress and updates.</p>
 - <p align="justify">Optimized the [Google knowledge panel](https://support.google.com/knowledgepanel/answer/9163198?hl=en) and developed a chat application.</p>
 - <p align="justify">Wrote technical documents related to software development and deployment.</p>
+</div>
+
+
+## Personal Projects
+<button class="btn-completed">[Azhar's Work](https://www.linkedin.com/in/azhar-ghafoor/)</button>  <button class="btn-inprogress">Self-paced</button><button class="btn-notstarted">2021 - Current</button>
+<div class="rowl1" style="padding-top: 10px;">
+- <p align="justify"><b>[Email Hunter](https://github.com/AzharGhafoor):</b>Completed research, compiled data, updated spreadsheets and produced timely reports.</p>
 </div>

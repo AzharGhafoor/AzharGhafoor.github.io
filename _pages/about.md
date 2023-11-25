@@ -132,7 +132,7 @@ https://progress-bar.dev/80/?title=english
 
 
 ## Contact Me
-<div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; display: inline-block; align:center">
+<div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; display: inline-block; margin: auto; width: 60%;">
 <p align="center">
 <a href="https://twitter.com/_azhar_ghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_azhar_ghafoor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/azhar-ghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhar-ghafoor" height="30" width="40" /></a>

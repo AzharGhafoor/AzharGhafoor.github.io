@@ -92,6 +92,19 @@ permalink: /about/
 
 
 
+| Header 1 | Header 2 | Header 3 |
+|:---------|:---------|:---------|
+| Left     | Center   | Right    |
+| <p style="text-align: justify;">Left justified text</p> | <p style="text-align: justify;">Center justified text</p> | <p style="text-align: justify;">Right justified text</p> |
+
+
+
+
+| <h2>hello</h2>| Header 2 | Header 3 |
+|:---------|:---------|:---------|
+| Left     | Center   | Right    |
+| <p style="text-align: justify;">Left justified text</p> | <p style="text-align: justify;">Center justified text</p> | <p style="text-align: justify;">Right justified text</p> |
+
 
 
 

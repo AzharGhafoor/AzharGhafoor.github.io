@@ -79,15 +79,14 @@ permalink: /about/
 
 ## Skills 
 
-| Technical Skillss | Soft Skills |
+| Technical Skills | Soft Skills |
 |---------------------------------------------------|---------------------------------------------------------|
-| <button class="btn-completed">Cyber Deception</button> <br> - Expert in creating deceptive systems to mislead attackers. | <button class="btn-completed">Analytical Thinking</button> <br> - I analyze complex data to spot patterns and identify security vulnerabilities. |
-| <button class="btn-completed"><br> - Logs Analysis</button> Extensive experience in analyzing and interpreting logs for security insights. | <button class="btn-completed"><br>  - Communication Skills</button> I communicate technical concepts clearly for effective collaboration in cybersecurity. |
-
-
-
-
-
+| <button class="btn-completed">Cyber Deception</button> - Expert in creating deceptive systems to mislead attackers. | <button class="btn-completed">Analytical Thinking</button> - I analyze complex data to spot patterns and identify security vulnerabilities. |
+| <button class="btn-completed">Logs Analysis</button> Extensive experience in analyzing and interpreting logs for security insights. | <button class="btn-completed">Communication Skills</button> I communicate technical concepts clearly for effective collaboration in cybersecurity. |
+| <button class="btn-completed">Python Tools Customization</button> Proficient in customizing tools using Python for enhanced cybersecurity functionality. | <button class="btn-completed">Adaptability</button> I adapt swiftly to evolving cybersecurity landscapes, addressing emerging threats proactively. |
+| <button class="btn-completed">Machine Learning Models</button> Skilled in both utilizing and creating machine learning models for cybersecurity. | <button class="btn-completed">Attention to Detail</button> I pay meticulous attention to detail, ensuring thorough security system examinations and precise documentation. |
+| <button class="btn-completed">Employee Training Campaigns</button> Develops and executes phishing awareness campaigns for employee training. | <button class="btn-completed">Ethical Judgement</button> I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. |
+| <button class="btn-completed">Compliance Auditing Knowledge</button> Knowledgeable in auditing firms for compliance with various standards and frameworks. | <button class="btn-completed"> Long Life Learning</button> I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements.
 
 
 

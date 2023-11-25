@@ -75,15 +75,25 @@ permalink: /about/
  <p align="justify">Azhar Ghafoor is a seasoned Cybersecurity Analyst with a profound passion for the field. With over a year of experience at Cytomate, he has spearheaded innovative projects in compliance, post-attack assessment, and attack surface management. Azhar's expertise extends to machine learning-driven log analysis, advanced cyber deception, and impactful phishing awareness campaigns. As a Cybersecurity Content Writer on Medium and a Professional Freelancer on Fiverr, he shares his knowledge and delivers top-tier results. Azhar holds a Master's in Information Security from COMSATS University Islamabad, cementing his commitment to cybersecurity excellence.</p>
 </div>
 
-{% if site.data.awards %}
-## Courses & Certifications
-<div class="rowl1" style="padding-top: 10px;">
 
-{% for award in site.data.awards %}
-{{ forloop.index }}. {% if award.name_url %}<a href="{{ award.name_url }}" target="_blank">{% endif %}<strong>{{ award.name }}</strong>{% if award.name_url %}</a>{% endif %} {% if award.organisation %} from {% if award.organisation_url %}<a href="{{ award.organisation_url }}" target="_blank">{% endif %} {{ award.organisation }}{% if award.organisation_url %}</a>{% endif %}{% endif %}{% if award.subtitle %}: {{ award.subtitle }}{% endif %} ({{ award.year }}).
-{% endfor %}
-</div>
-{% endif %}
+
+
+
+|    <button class="btn-completed">Technical Skills</button>             | <button class="btn-completed">Soft Skills</button>               |
+|----------------------------------|-----------------------------|
+| **Cyber Deception:**  <p align="justify">Expert in creating deceptive systems to mislead attackers. </p>                | **Analytical Thinking:** <p align="justify"> I analyze complex data to spot patterns and identify security vulnerabilities. </p>       |
+| **Logs Analysis:**  <p align="justify">Extensive experience in analyzing and interpreting logs for security insights. </p>                  | **Communication Skills:**  <p align="justify">I communicate technical concepts clearly for effective collaboration in cybersecurity. </p>        |
+| **Python Tools Customization:**  <p align="justify">Proficient in customizing tools using Python for enhanced cybersecurity functionality. </p>     | **Adaptability:**  <p align="justify">I adapt swiftly to evolving cybersecurity landscapes, addressing emerging threats proactively.  </p>               |
+| **Machine Learning Models:**  <p align="justify">Skilled in both utilizing and creating machine learning models for cybersecurity.   </p>      | **Attention to Detail:**  <p align="justify">I pay meticulous attention to detail, ensuring thorough security system examinations and precise documentation.  </p>       |
+| **Employee Training Campaigns:**  <p align="justify">Develops and executes phishing awareness campaigns for employee training.   </p>           | **Ethical Judgement:**  <p align="justify">I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. </p>           |
+| **Compliance Auditing Knowledge:**  <p align="justify">Knowledgeable in auditing firms for compliance with various standards and frameworks.  </p>    |                             **Long Life Learning:**  <p align="justify">I maintain high ethical standards, handling sensitive information responsibly in compliance with privacy and legal requirements. </p>
+
+
+
+
+
+
+
 
 {% if site.data.collaborators %}
 ## Collaborations

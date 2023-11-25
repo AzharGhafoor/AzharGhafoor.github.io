@@ -51,6 +51,19 @@ permalink: /education/
 
 
 
+{% if site.data.awards %}
+## Courses & Certifications
+<div class="rowl1" style="padding-top: 10px;">
+
+{% for award in site.data.awards %}
+{{ forloop.index }}. {% if award.name_url %}<a href="{{ award.name_url }}" target="_blank">{% endif %}<strong>{{ award.name }}</strong>{% if award.name_url %}</a>{% endif %} {% if award.organisation %} from {% if award.organisation_url %}<a href="{{ award.organisation_url }}" target="_blank">{% endif %} {{ award.organisation }}{% if award.organisation_url %}</a>{% endif %}{% endif %}{% if award.subtitle %}: {{ award.subtitle }}{% endif %} ({{ award.year }}).
+{% endfor %}
+</div>
+{% endif %}
+
+
+
+
 {% if site.data.medium %}
 <!-- Sort students by year -->
 {% assign students = site.data.medium | sort: 'year' | reverse %}

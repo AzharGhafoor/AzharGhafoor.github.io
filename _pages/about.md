@@ -84,7 +84,7 @@ permalink: /about/
 | <button class="btn-completed">Expert in creating deceptive systems</button> | <button class="btn-inprogress">Analyzing complex data to spot patterns</button> |
 | <button class="btn-completed">Analyzing and interpreting logs</button> | <button class="btn-inprogress">Communicating technical concepts clearly & effectively </button> |
 | <button class="btn-completed">Customization & Creation of python tools </button> | <button class="btn-inprogress">Adapting swiftly to evolving cybersecurity landscapes</button> |
-| <button class="btn-completed">Skilled in utilizing and creating machine learning models</button> | <button class="btn-inprogress">Paying meticulous attention to detail</button> |
+| <button class="btn-completed">Utilizing and creating machine learning models</button> | <button class="btn-inprogress">Paying meticulous attention to detail</button> |
 | <button class="btn-completed">Employee Training Campaigns</button> | <button class="btn-inprogress">Ethical Judgement in handling sensitive information</button> |
 | <button class="btn-completed">Knowledgeable in auditing firms for compliance</button> | <button class="btn-inprogress"> Passion for staying up to date with latest technologies</button>
 

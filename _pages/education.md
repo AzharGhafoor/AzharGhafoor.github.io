@@ -25,6 +25,26 @@ permalink: /education/
 {% endif %}
 
 
+
+
+{% if site.degrees %}
+<!-- Sort courses by year -->
+{% assign courses = site.degrees | sort: 'year_start' | reverse %}
+
+## Degrees
+<div class="rowl1" style="padding-top: 10px;">
+
+{% for course in courses %}
+{{ forloop.index }}. {% if course.url %}<a href="{{ course.url }}" target="_blank">{% endif %} <strong>{{ course.name }}</strong> {% if course.name_url %}</a>{% endif %} ({{ course.institution }}, {{ course.year_start }}–{{ course.year_end }}) {% if course.type == 'bs' %}<button class="btn-completed">BS</button>{% endif %}{% if course.type == 'ms' %}<button class="btn-inprogress">MS</button>{% endif %}{% if course.type == 'phd' %}<button class="btn-notstarted">PhD</button>{% endif %}{% if course.comment %} – {{ course.comment }}{% endif %}
+<br/>
+<i>{{ course.code }}. {{ course.subheading }}</i>.
+
+{% endfor %}
+
+</div>
+{% endif %}
+
+
 {% if site.data.thesis_azhar %}
 <!-- Sort courses by year -->
 {% assign students = site.data.thesis_azhar | sort: 'year' | reverse %}

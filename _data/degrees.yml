@@ -1,1 +1,15 @@
+- name: Bachelor of Science in Information Technology
+  name_url: https://iit.qau.edu.pk/
+  project: This degree turned my passion for technology into a future-focused career. Its hands-on, industry-based skills prepared me for an exciting future in a constantly evolving cyber industry.
+  project_url: https://iit.qau.edu.pk/
+  year: 2019
+  status: bs
+  comment: (from <a href="https://qau.edu.pk/" target="_blank">Quaid-i-Azam University</a>, Islamabad, Pakistan)
 
+- name: Master of Science in Information Security
+  name_url: https://ww2.comsats.edu.pk/cs/Programs.aspx
+  project: In this degree, I researched, evaluated, and developed cybersecurity products and tools, learned about threat monitoring, avoiding, and elimination, created automated tools to increase the effectiveness of deception setup, and became familiar with new technologies.
+  project_url: https://ww2.comsats.edu.pk/cs/Programs.aspx
+  year: 2022
+  status: ms
+  comment: (from <a href="https://comsats.edu.pk/" target="_blank">COMSATS University Islamabad</a>, Islamabad, Pakistan)

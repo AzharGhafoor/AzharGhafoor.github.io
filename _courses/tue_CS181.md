@@ -8,7 +8,7 @@ year_start: 2023
 year_end: 2023
 institution: University
 type: bs
-students: 56
+students: 112
 code: CS181
 subheading: Mastering the fundamentals of cybersecurity and staying updated on technological advancements
 pdf: ict_course

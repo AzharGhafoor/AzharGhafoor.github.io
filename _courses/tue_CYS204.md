@@ -16,34 +16,11 @@ comment:
 ---
 #### Introduction
 <p align="justify">
-Dear Students,
+Welcome to our information security course! Over the next fifteen weeks, we'll explore the world of information security together, covering a range of topics essential for understanding this field. In today's interconnected world, computers play a central role in our lives. But with that reliance comes the need for trust. Think of security as akin to building a dam: there's the technical side—the construction—and the cultural aspect—filling it with water. Similarly, security involves both technical components (software, hardware, firmware) and cultural aspects (user behavior, organizational discipline).
+
+Our course is structured to provide a holistic understanding of information security, encompassing both technical and cultural aspects. We'll begin by laying the foundation with fundamental concepts, gradually progressing to more advanced topics. Each module will consist of engaging lectures, interactive discussions, practical exercises, and hands-on labs to enhance your learning experience. Additionally, supplementary materials and resources will be provided to further enrich your understanding of the subject matter.
 </p>
 
-<p align="justify">
-Welcome to our information security course! I'm Azhar Ghafoor, your guide through this journey. Over the next fifteen weeks, we'll explore the world of information security together, covering a range of topics essential for understanding this field.
-In today's interconnected world, computers play a central role in our lives. But with that reliance comes the need for trust. Think of security as akin to building a dam: there's the technical side—the construction—and the cultural aspect—filling it with water. Similarly, security involves both technical components (software, hardware, firmware) and cultural aspects (user behavior, organizational discipline).</p>
-
-<p align="justify">
-I firmly believe that 80% of security is cultural, which is why our course is structured to address this aspect first. We'll discuss user and administrator expectations, the importance of organizational discipline, and the role each of us plays in maintaining a secure computing environment.</p>
-
-<p align="center">
-Consider this analogy: just as regular exercise maintains good health, discipline in security practices ensures system integrity. Without discipline, security breaches occur, impacting the entire organization.
-</p>
-
-<p align="justify">
-Unlike personal health, where neglect affects only oneself, security lapses can have widespread consequences, affecting networks, compromising confidentiality, and eroding customer trust. This course aims to equip you with the knowledge and skills to prevent such breaches and uphold the integrity of your organization's systems.</p>
-
-<p align="justify">
-Throughout the course, we'll delve into various modules, each representing a vital aspect of information security. While there are numerous resources available online, our course serves as a practical guide, distilling complex topics into easily understandable concepts.</p>
-
-<p align="justify">
-As we progress, we'll delve deeper into each area, with practical exercises and hands-on modules. Our slide decks are designed to simplify complex topics while retaining necessary technical terms.</p>
-
-<p align="justify">
-Understanding information security is vital for protecting society, ourselves, and our nation from cyber threats. By increasing awareness and fostering a robust computing environment, we contribute to national security.</p>
-
-<p align="justify">
-Thank you for joining this course. I hope you find it enriching and rewarding.</p>
 
 
 #### Course Abstract

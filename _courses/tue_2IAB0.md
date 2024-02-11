@@ -8,7 +8,7 @@ year_start: 2023
 year_end: 2023
 institution: University
 type: bs
-students: 51
+students: 112
 code: CY4001
 subheading: Learning the art of building secure and robust software
 pdf: 
@@ -29,8 +29,6 @@ comment:
 - **Objective 3**. Apply analysis and testing skills, focusing on vulnerability and threat perspectives, and implement mechanisms for mitigation. 
 - **Objective 4**. Explore new avenues in secure software development, understanding both strengths and limitations.
 
-<img src="{{ site.url }}{{ site.baseurl }}/courses/2IAB0-structure.jpg" class="img-responsive"/>
-
 #### Students learn
 <p align="justify">In the "Secure Software Development" course, students will gain a thorough understanding of fundamental principles and practices in secure software engineering. The curriculum begins with an exploration of secure software development cycles, distinguishing them from regular cycles, and delves into the causes of vulnerabilities, covering faults, problems, threats, and various attack vectors. Frameworks like NIST, CRET, and OWASP are introduced, shedding light on vulnerability concepts at different levels. Students then progress to models for secure software elicitation, system design using UML, misuse cases, and features of vulnerabilities. Threat modeling, attacker modeling, and frameworks such as OWASP, NIST, and CERT are covered extensively, providing insights at the implementation level. Vulnerability assessment and management, including topics like string format, overflow, and DevOps security, are explored in depth. The course also emphasizes the vital role of software testing for system quality and addresses software project risk management and assessment.</p>
 - **1**. Introduction to secure software engineering principles and studies.
@@ -41,12 +39,12 @@ comment:
 - **6**. In-depth coverage of threat modeling, including STRIDE and DREAD alignments.
 - **7**. Attacker modeling, identification, and resolution of recurring security issues.
 - **8**. Frameworks at the implementation level, such as OWASP, NIST, and CERT.
-- **9**. Comprehensive exploration of vulnerability assessment and management, covering topics like string format, overflow, and DevOps security.
-- **9**. Emphasis on the crucial role of software testing for ensuring system quality.
+- **9**. A comprehensive exploration of vulnerability assessment and management, covering topics like string format, overflow, and DevOps security.
+- **9**. Emphasis on the crucial role of software testing in ensuring system quality.
 - **10**. Addressing software project risk management and assessment.
 
 #### Course setup
-<p align="justify">The "Secure Software Development" course is strategically structured to provide students with a comprehensive and hands-on learning experience. The course is divided into modules, each meticulously designed to build upon the previous one, ensuring a seamless progression of knowledge. Assessment is multifaceted, incorporating assignments, exams, and practical lab tasks to gauge both theoretical understanding and practical application. The lab component is particularly integral, allowing students to apply concepts in real-world scenarios, enhancing their proficiency in secure software development practices. The weighting of assessments is calibrated to reflect the significance of each component, with a focus on continuous engagement and a holistic evaluation of students' capabilities. The course setup is crafted to instill a thorough understanding of secure software development, combining theoretical knowledge with practical skills for a well-rounded educational experience.</p>
+<p align="justify">The "Secure Software Development" course is strategically structured to provide students with a comprehensive and hands-on learning experience. The course is divided into modules, each meticulously designed to build upon the previous one, ensuring a seamless progression of knowledge. Assessment is multifaceted, incorporating assignments, exams, and practical lab tasks to gauge both theoretical understanding and practical application. The lab component is particularly integral, allowing students to apply concepts in real-world scenarios, and enhancing their proficiency in secure software development practices. The weighting of assessments is calibrated to reflect the significance of each component, with a focus on continuous engagement and a holistic evaluation of students' capabilities. The course setup is crafted to instill a thorough understanding of secure software development, combining theoretical knowledge with practical skills for a well-rounded educational experience.</p>
 
 #### Grading
 <p align="justify">The course grading for "Secure Software Development" is structured to holistically evaluate students' performance through various assessment components. Assignments, totaling 3 out of 4, form a substantial part of the assessment, providing students with opportunities to apply theoretical knowledge to practical scenarios. Quizzes, numbering 4 out of 5, contribute to continuous engagement and knowledge retention. The sessional assessment, comprising 1, serves as a benchmark for evaluating students' understanding of the course material. The project, valued at 1, allows students to showcase their application of secure software development principles in a practical setting. The final exam, carrying significant weight, assesses students comprehensively on the overall course content.</p>

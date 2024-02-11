@@ -1,53 +1,122 @@
 ---
-title: "CY-4001: Secure Software Development"
+title: "CYS-204: Information Security"
 layout: course
 sitemap: false
-name: Secure Software Development
-name_url: https://nceac.org.pk/Documents/Curriculums/BS%20Curriculm%20Computing%20Disciplines-2023.pdf
-year_start: 2023
-year_end: 2023
+name: Information Security
+name_url: https://code.iitm.ac.in/informationsecurity
+year_start: 2024
+year_end: 2024
 institution: University
 type: bs
-students: 51
-code: CY4001
-subheading: Learning the art of building secure and robust software
-pdf: 
+students: 110
+code: CYS-204
+subheading: Understanding and mastering various aspects of Information security 
+pdf: https://archive.nptel.ac.in/content/syllabus_pdf/106106129.pdf
 comment: 
 ---
 #### Introduction
-<p align="justify">The course on "Secure Software Development" is meticulously crafted to provide participants with a comprehensive understanding of the intricacies involved in developing software with a strong emphasis on security. In an era marked by increasing cyber threats and vulnerabilities, this course equips participants with the knowledge and skills necessary to create robust, secure software applications. The curriculum delves into foundational concepts of secure coding practices, encryption methodologies, and threat modeling. Participants will gain insights into identifying and mitigating common vulnerabilities, understanding the principles of secure design, and implementing security best practices throughout the software development lifecycle.</p>
-<p align="justify">The course adopts a hands-on approach, allowing participants to apply theoretical concepts in practical scenarios. Through real-world case studies, participants will analyze security breaches, dissect the root causes, and implement preventive measures. Additionally, the course covers the integration of security testing into the development process, ensuring that participants are adept at identifying and rectifying security flaws during the various stages of software development. The importance of adhering to industry standards and compliance regulations is also emphasized, providing participants with a holistic perspective on secure software development practices.</p>
-<p align="justify">Furthermore, the course addresses emerging trends and challenges in the cybersecurity landscape, preparing participants to stay ahead of evolving threats. It fosters a collaborative learning environment where participants can engage in discussions, share insights, and work on practical exercises. Whether participants are seasoned developers looking to enhance their security acumen or individuals new to the field, this course aims to empower them with the skills and knowledge needed to contribute to the creation of resilient and secure software systems. Overall, "Secure Software Development" serves as a crucial foundation for professionals seeking to navigate the complex intersection of software development and cybersecurity.</p>
+<p align="justify">
+Dear Students,
+</p>
+
+<p align="justify">
+Welcome to our information security course! I'm Azhar Ghafoor, your guide through this journey. Over the next fifteen weeks, we'll explore the world of information security together, covering a range of topics essential for understanding this field.
+In today's interconnected world, computers play a central role in our lives. But with that reliance comes the need for trust. Think of security as akin to building a dam: there's the technical side—the construction—and the cultural aspect—filling it with water. Similarly, security involves both technical components (software, hardware, firmware) and cultural aspects (user behavior, organizational discipline).</p>
+
+<p align="justify">
+I firmly believe that 80% of security is cultural, which is why our course is structured to address this aspect first. We'll discuss user and administrator expectations, the importance of organizational discipline, and the role each of us plays in maintaining a secure computing environment.</p>
+
+<blockquote>
+<p align="center">
+Consider this analogy: just as regular exercise maintains good health, discipline in security practices ensures system integrity. Without discipline, security breaches occur, impacting the entire organization.
+</p>
+</blockquote>
+
+<p align="justify">
+Unlike personal health, where neglect affects only oneself, security lapses can have widespread consequences, affecting networks, compromising confidentiality, and eroding customer trust. This course aims to equip you with the knowledge and skills to prevent such breaches and uphold the integrity of your organization's systems.</p>
+
+<p align="justify">
+Throughout the course, we'll delve into various modules, each representing a vital aspect of information security. While there are numerous resources available online, our course serves as a practical guide, distilling complex topics into easily understandable concepts.</p>
+
+<p align="justify">
+As we progress, we'll delve deeper into each area, with practical exercises and hands-on modules. Our slide decks are designed to simplify complex topics while retaining necessary technical terms.</p>
+
+<p align="justify">
+Understanding information security is vital for protecting society, ourselves, and our nation from cyber threats. By increasing awareness and fostering a robust computing environment, we contribute to national security.</p>
+
+<p align="justify">
+Thank you for joining this course. I hope you find it enriching and rewarding.</p>
+
+
+#### Course Abstract
+<p align="justify">
+The course is intended to address the basics of Information Security Concepts and the general industry trends. We will be covering the following topics: </p>p
+<p align="justify">
+
+1. What is Information Security? Why do you need it?
+   - Basic Principles of Confidentiality, Integrity, Availability
+   - Concepts Policies, procedures, Guidelines, Standards
+   - Administrative Measures and Technical Measures
+   - People, Processes, Technology
+
+2. Current Trends in Information Security, Cloud Computing: benefits and Issues related to info Sec.
+   - Standards available for InfoSec: Cobit, Cadbury, ISO 27001, OWASP, OSSTMM, etc - An Overview
+   - Certifiable Standards: How, What, When, Who.
+
+3. Vulnerability, Threat and Risk, Risk Assessment and Mitigation + Quick fixes
+   - Introduction to BCP / DRP / Incident Management
+   - Segregation and Separation of Duties & Roles and responsibilities
+   - IT ACT 2000
+
+4. Types of assessments for Information Security
+   - VAPT of Networks; Web Appln Audits; IT assessments or audits; Assessment of Network equipment
+   - Assessment of Security Devices (Web Filtering, Firewalls, IDS / IPS, Routers; Data Center Assessment
+   - Security of Application Software; SAP Security; Desktop Security; RDBMS Security; BCP / DRP assessments; Policy reviews
+
+5. Network Security & Common and Popular Tools Used
+
+6. Windows and Linux security
+   - Types of Audits in Windows Environment: Server Security, Active Directory (Group Policy), Anti-Virus, Mails, Malware
+   - Endpoint protection, Shadow Passwords, SUDO users, etc
+
+7. Web Application Security: OWASP
+   - Common Issues in Web Apps
+   - What is XSS, SQL injection, CSRF, Password Vulnerabilities, SSL, CAPTCHA, Session Hijacking
+   - Local and Remote File Inclusion, Audit Trails, Web Server Issues, etc
+</p>
+
 
 #### My role
-- 2023–: Instructor.
+- 2024–: Instructor.
 
 #### Course Learning Objectives
-<p align="justify">The Course Learning Outcomes (CLOs) for "Secure Software Development" encapsulate the essential competencies students will gain. These include the ability to critically evaluate threats and vulnerabilities, apply security principles, model system artifacts with a focus on threat aspects, apply analysis and testing skills for vulnerability mitigation, and explore new dimensions in secure software development. The CLOs collectively emphasize the course's commitment to providing students with a comprehensive understanding of secure software development practices.</p>
-- **Objective 1**. Critically evaluate threats and vulnerabilities, applying essential security principles.
-- **Objective 2**. Model system artifacts with consideration for threat and vulnerability aspects.
-- **Objective 3**. Apply analysis and testing skills, focusing on vulnerability and threat perspectives, and implement mechanisms for mitigation. 
-- **Objective 4**. Explore new avenues in secure software development, understanding both strengths and limitations.
+<p align="justify">
+Welcome to the Information Security Fundamentals course! Throughout this program, you'll dive into the core principles of Information Security and develop practical skills to secure digital assets effectively. By the end of this course, you will be able to:</p>
 
-<img src="{{ site.url }}{{ site.baseurl }}/courses/2IAB0-structure.jpg" class="img-responsive"/>
+- **Objective 1**. Understand the essential concepts of Information Security, including its significance and basic principles like Confidentiality, Integrity, and Availability (CIA).
 
-#### Students learn
-<p align="justify">In the "Secure Software Development" course, students will gain a thorough understanding of fundamental principles and practices in secure software engineering. The curriculum begins with an exploration of secure software development cycles, distinguishing them from regular cycles, and delves into the causes of vulnerabilities, covering faults, problems, threats, and various attack vectors. Frameworks like NIST, CRET, and OWASP are introduced, shedding light on vulnerability concepts at different levels. Students then progress to models for secure software elicitation, system design using UML, misuse cases, and features of vulnerabilities. Threat modeling, attacker modeling, and frameworks such as OWASP, NIST, and CERT are covered extensively, providing insights at the implementation level. Vulnerability assessment and management, including topics like string format, overflow, and DevOps security, are explored in depth. The course also emphasizes the vital role of software testing for system quality and addresses software project risk management and assessment.</p>
-- **1**. Introduction to secure software engineering principles and studies.
-- **2**. Distinction between secure software development and regular development cycles.
-- **3**. Causes of vulnerabilities, including faults, problems, threats, and attack vectors.
-- **4**. Exploration of frameworks such as NIST, CRET, and OWASP, highlighting vulnerability concepts.
-- **5**. Models for secure software elicitation, system design using UML, misuse cases, and vulnerability features.
-- **6**. In-depth coverage of threat modeling, including STRIDE and DREAD alignments.
-- **7**. Attacker modeling, identification, and resolution of recurring security issues.
-- **8**. Frameworks at the implementation level, such as OWASP, NIST, and CERT.
-- **9**. Comprehensive exploration of vulnerability assessment and management, covering topics like string format, overflow, and DevOps security.
-- **9**. Emphasis on the crucial role of software testing for ensuring system quality.
-- **10**. Addressing software project risk management and assessment.
+- **Objective 2**. Explore common threats, vulnerabilities, and risks in information systems, and learn how to assess, mitigate, and manage them effectively.
+
+- **Objective 3**. Gain proficiency in network security fundamentals, including identifying and implementing security measures to safeguard networks against unauthorized access and attacks.
+- 
+- **Objective 4**. Develop practical skills in securing operating systems such as Windows and Linux, including audits, server security, and endpoint protection.
+
+- **Objective 5**. Acquire knowledge of Web Application Security principles, including common vulnerabilities and methods to secure web servers against attacks like XSS, SQL injection, and CSRF.
+<p align="justify">
+With a strong foundation in Information Security principles and hands-on experience with practical techniques, you'll be well-equipped to navigate the complex landscape of cybersecurity and protect critical digital assets effectively. </p>
+
 
 #### Course setup
-<p align="justify">The "Secure Software Development" course is strategically structured to provide students with a comprehensive and hands-on learning experience. The course is divided into modules, each meticulously designed to build upon the previous one, ensuring a seamless progression of knowledge. Assessment is multifaceted, incorporating assignments, exams, and practical lab tasks to gauge both theoretical understanding and practical application. The lab component is particularly integral, allowing students to apply concepts in real-world scenarios, enhancing their proficiency in secure software development practices. The weighting of assessments is calibrated to reflect the significance of each component, with a focus on continuous engagement and a holistic evaluation of students' capabilities. The course setup is crafted to instill a thorough understanding of secure software development, combining theoretical knowledge with practical skills for a well-rounded educational experience.</p>
+<p align="justify">
+The course is structured over fifteen weeks, comprising lectures, practical exercises, and hands-on modules. Each week, students will attend lectures conducted by the instructor, Azhar Ghafoor, covering various topics essential for understanding information security. Lecture materials, including slide decks and reference materials, will be provided to students for their reference. Additionally, practical exercises and hands-on modules will be conducted to reinforce theoretical concepts and provide students with real-world application scenarios. Course rules are established to encourage active participation, including asking questions, engaging in discussions, and maintaining focus during lectures.  
+</p>
 
 #### Grading
-<p align="justify">The course grading for "Secure Software Development" is structured to holistically evaluate students' performance through various assessment components. Assignments, totaling 3 out of 4, form a substantial part of the assessment, providing students with opportunities to apply theoretical knowledge to practical scenarios. Quizzes, numbering 4 out of 5, contribute to continuous engagement and knowledge retention. The sessional assessment, comprising 1, serves as a benchmark for evaluating students' understanding of the course material. The project, valued at 1, allows students to showcase their application of secure software development principles in a practical setting. The final exam, carrying significant weight, assesses students comprehensively on the overall course content.</p>
-<p align="justify">The lab assessment is a crucial element, with assignments (3), quizzes (3), sessional (1), project (1), and lab tasks (10) collectively contributing to the practical evaluation of students' skills. The final exam in the lab component serves as a comprehensive assessment of practical proficiency. The course grading is meticulously designed to ensure a thorough and fair evaluation, encompassing both theoretical knowledge and practical application.</p>
+<p align="justify">
+Student evaluation will be based on various components, including:
+- Participation: Active participation in lectures, discussions, and practical exercises.
+- Assignments: Completion and submission of assigned tasks, including practical exercises and assessments.
+- Examinations: Performance in midterm and final examinations assessing understanding of course content.
+- Project: Completion and presentation of a course project demonstrating practical application of information security concepts.
+Grading criteria for each component will be outlined in the course syllabus provided to students at the beginning of the term.
+</p>

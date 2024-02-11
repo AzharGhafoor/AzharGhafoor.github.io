@@ -26,11 +26,9 @@ In today's interconnected world, computers play a central role in our lives. But
 <p align="justify">
 I firmly believe that 80% of security is cultural, which is why our course is structured to address this aspect first. We'll discuss user and administrator expectations, the importance of organizational discipline, and the role each of us plays in maintaining a secure computing environment.</p>
 
-<blockquote>
 <p align="center">
 Consider this analogy: just as regular exercise maintains good health, discipline in security practices ensures system integrity. Without discipline, security breaches occur, impacting the entire organization.
 </p>
-</blockquote>
 
 <p align="justify">
 Unlike personal health, where neglect affects only oneself, security lapses can have widespread consequences, affecting networks, compromising confidentiality, and eroding customer trust. This course aims to equip you with the knowledge and skills to prevent such breaches and uphold the integrity of your organization's systems.</p>
@@ -50,8 +48,8 @@ Thank you for joining this course. I hope you find it enriching and rewarding.</
 
 #### Course Abstract
 <p align="justify">
-The course is intended to address the basics of Information Security Concepts and the general industry trends. We will be covering the following topics: </p>p
-<p align="justify">
+The course is intended to address the basics of Information Security Concepts and the general industry trends. We will be covering the following topics: </p>
+
 
 1. What is Information Security? Why do you need it?
    - Basic Principles of Confidentiality, Integrity, Availability
@@ -83,8 +81,6 @@ The course is intended to address the basics of Information Security Concepts an
    - Common Issues in Web Apps
    - What is XSS, SQL injection, CSRF, Password Vulnerabilities, SSL, CAPTCHA, Session Hijacking
    - Local and Remote File Inclusion, Audit Trails, Web Server Issues, etc
-</p>
-
 
 #### My role
 - 2024–: Instructor.
@@ -94,13 +90,9 @@ The course is intended to address the basics of Information Security Concepts an
 Welcome to the Information Security Fundamentals course! Throughout this program, you'll dive into the core principles of Information Security and develop practical skills to secure digital assets effectively. By the end of this course, you will be able to:</p>
 
 - **Objective 1**. Understand the essential concepts of Information Security, including its significance and basic principles like Confidentiality, Integrity, and Availability (CIA).
-
 - **Objective 2**. Explore common threats, vulnerabilities, and risks in information systems, and learn how to assess, mitigate, and manage them effectively.
-
 - **Objective 3**. Gain proficiency in network security fundamentals, including identifying and implementing security measures to safeguard networks against unauthorized access and attacks.
-- 
 - **Objective 4**. Develop practical skills in securing operating systems such as Windows and Linux, including audits, server security, and endpoint protection.
-
 - **Objective 5**. Acquire knowledge of Web Application Security principles, including common vulnerabilities and methods to secure web servers against attacks like XSS, SQL injection, and CSRF.
 <p align="justify">
 With a strong foundation in Information Security principles and hands-on experience with practical techniques, you'll be well-equipped to navigate the complex landscape of cybersecurity and protect critical digital assets effectively. </p>

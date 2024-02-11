@@ -138,3 +138,33 @@ permalink: /about/
 <a href="https://azharghafoor.netlify.app/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="@azharghafoor" height="40" width="40" style="filter:invert(100%);"  /></a> 
 </p>
 </div>
+
+
+
+
+
+
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/azharghafoor39 rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-6de87ee4-4f8f-4dad-8018-6316eb9f166a' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >azharghafoor39</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Greetings, World! I am Azhar Ghafoor, a highly skilled and experienced cybersecurity professional with over two years of practical industry experience. Throughout my career, I have excelled in various roles, consistently delivering results in an efficient and timely manner. I am thrilled to announce that I have recently joined Fiver and am now available to offer my expertise in the following fields:
+
+* Information security
+* Digital forensics
+* Network security
+* Web penetration testing
+* Technical writing
+* Artificial intelligence and machine learning
+
+I am looking forward to hearing frm you.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-6de87ee4-4f8f-4dad-8018-6316eb9f166a' src='https://widgets.fiverr.com/api/v1/seller/azharghafoor39?widget_id=6de87ee4-4f8f-4dad-8018-6316eb9f166a' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>

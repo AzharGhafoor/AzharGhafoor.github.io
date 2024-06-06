@@ -64,7 +64,7 @@ The course is aimed at providing an in-depth understanding of Network Forensics.
    - Investigating Windows and Firewall Logs
 
 #### My role
-- 2024–: Instructor, Mr. Azhar Ghafoor, azhar.ghafoor@mail.au.edu.pk.
+- 2024–: Instructor
 
 #### Course Learning Objectives
 <p align="justify">

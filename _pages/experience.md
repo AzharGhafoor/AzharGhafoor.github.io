@@ -6,7 +6,7 @@ permalink: /experience/
 ---
 
 # Experiences
-## Cybersecurity Product Promotions and Team Showcases
+## Cyber Security Analyst
 <button class="btn-completed">[Cytomate Solutions & Services](https://cytomate.net/)</button>  <button class="btn-inprogress">Doha, Qatar</button><button class="btn-notstarted">2022 - 2024</button>
 <div class="rowl1" style="padding-top: 10px;">
 - <p align="justify">Initiated the development and promotion of a revolutionary Compliance Assessment Tool tailored for SMEs in Qatar, aligning with [NIA Policy 2.0](https://assurance.ncsa.gov.qa/sites/default/files/library/2018-11/guidance-nia_manual_english_v2.0_0.pdf) and [NIA Standard 2.1 Qatar](https://compliance.qcert.org/sites/default/files/publications/policy/2023/NCSA_CSGA_%20National_Information_Assurance_Standard_En_V2.1_1.pdf). Collaborating with [QDB](https://www.qdb.qa/), the tool marked an 80% increase in compliance rates among [SMEs](https://moushtarayat.qdb.qa/English/SMEsDirectory/Pages/default.aspx).</p>

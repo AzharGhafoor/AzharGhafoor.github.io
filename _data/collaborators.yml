@@ -1,20 +1,38 @@
 - name: Dr. Munam Ali Shah
-  name_url: https://www.researchgate.net/profile/Munam-Shah
+  name_url: https://scholar.google.com.pk/citations?user=bzj3D1oAAAAJ&hl=en
   field: 5G Networks, IoMT
-  institution: COMSATS University Islamabad
-  institution_url: https://www.researchgate.net/institution/COMSATS-University-Islamabad
+  institution: King Faisal University
+  institution_url: https://faculty.kfu.edu.sa/
+  
+- name: Dr. Kashif Kifayat
+  name_url: https://pk.linkedin.com/in/kashif-kifayat-762a6620
+  field: Cybersecurity
+  institution: National Center for Cyber Security
+  institution_url: https://www.nccs.pk/
 
-- name: Dr. Farhana Jabeen Khan
+- name: Dr. Zunera Jalil
+  name_url: https://pk.linkedin.com/in/dr-zunera-jalil
+  field: Cybersecurity Courses: Information Security, Network Forensics, Secure Software Development
+  institution: Air University
+  institution_url: https://www.au.edu.pk/
+
+- name: Dr. Jawaid Iqbal
+  name_url: https://pk.linkedin.com/in/dr-jawaid-iqbal-7230436a
+  field: Cybersecurity
+  institution: Riphah International University
+  institution_url: https://riphah.edu.pk/
+
+  - name: Dr. Farhana Jabeen Khan
   name_url: https://www.researchgate.net/profile/Farhana-Jabeen
   field: Cybersecurity Hands-on Labs
   institution: COMSATS University Islamabad
-  institution_url: https://www.researchgate.net/institution/COMSATS-University-Islamabad
+  institution_url: https://www.comsats.edu.pk/
 
 - name: Mr. Mudassar Mushtaq
   name_url: https://www.linkedin.com/in/mudassar-mushtaq/
   field: IoMT
   institution: Pakistan Telecommunication Company Ltd (PTCL)
-  institution_url: https://www.linkedin.com/company/ptcl-official/
+  institution_url: https://ptcl.com.pk/
 
 - name: Mr. Osama Ellahi
   name_url: https://www.linkedin.com/in/osamaellahi/
@@ -38,4 +56,4 @@
   name_url: https://www.linkedin.com/in/m-ahmad-nawaz-524974112/
   field: Practical Research
   institution: Riphah International University
-  institution_url: https://www.linkedin.com/school/riphah-international-university/
+  institution_url: https://riphah.edu.pk/

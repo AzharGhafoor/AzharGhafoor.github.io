@@ -95,18 +95,11 @@ permalink: /about/
 </div>
 
 
-
-
-## Hands-On Tools New
-
+## Hands-On Tools
 <div class="rowl1" style="padding-top: 10px; text-align:justify;">
-<button class="btn-completed">Cybersecurity Standards and Compliance</button> 
 `ISO-27001` `NIST Standards` `PCI-DSS` `HIPPA` `Personal Data Protection Law - Qatar` `NIA Policy 2.0` `NIA Standard 2.1`
-<button class="btn-completed">Security Monitoring and Threat Detection</button> 
 `Splunk SIEM` `QRadar SIEM` `Wazuh EDR` `Snort IDS/IPS` `Suricata IDS` `NMAP` `Cuckoo Sandbox` `Shodan` `Nuclei`
-<button class="btn-completed">Penetration Testing and Exploitation</button>
 `Metasploit` `Burpsuite` `OWASP Zap` `Recon-ng` `httpX` `Gophish` `Mimikatz` `W3af` `Sqlmap` `Dirbuster` `Hydra` `Hashcat`
-<button class="btn-completed">Network Analysis, Forensics, and Miscellaneousn</button>
 `Wireshark` `Maltego` `Matplotlib` `Flask` `Requests` `Beautiful Soup` `Scrapy` `Seaborn` `Scikit-learn` `Volatility` `EnCase` `Autopsy` `Cellebrite` `NetworkMiner` `FTK Forensic Toolkit` `DomainTools` `Python` `Machine Learning` `Anomaly Detection` `Pandas - Data Analytics` `Linux (Kali, Ubuntu)` `Google Dorking` `Generative AI` `Proxmox` `Ollama` `RAG` `theHarvester` `Amass` `VMware` `Virtual Box` `Whois` `Hybrid Analysis` `Process Hacker` `Process Monitor` `IDA-Pro` `VirusTotal` `Joe Security Joe Sandbox` `PeStudio` `Open EDR` `IntelligenceX` `OSINT Framework` `TinyEye` `Yandex` `BuiltWith` `Wayback Machine` `Metagoofil` `Anaconda Distribution` `Ettercap` `Ffuf` `Wfuzz` `Medusa` `XSStrike` `PwnXSS` `Ghouri` `Dionaea` `Cowrie` `Snare&Tanner` `Conpot` `Office 365` `Teams` `Trello` `MS Azure` `Google Cloud Platform` `WireGuard` `Mx Toolbox` `Github` `Latex` `WAF Testing` `Cloud Enum` `Autopsy` `Flask` `Seaborn` `NLTK` `Auto Encoder` `Joblib` `Transformers`
 </div>
 

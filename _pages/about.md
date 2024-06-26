@@ -94,16 +94,6 @@ permalink: /about/
 `ISO-27001` `NIA Policy 2.0` `NIA Standard 2.1` `NIST Standards` `PCI-DSS` `HIPPA` `Personal Data Protection Law - Qatar` `Emekie` `Splunk SIEM` `QRadar SIEM` `Wazuh EDR` `Snort IDS/IPS` `Suricata IDS` `NMAP` `Cuckoo Sandbox` `Python` `Machine Learning` `Anomaly Detection` `Pandas - Data Analytics` `Linux (Kali, Ubuntu)` `Google Dorking` `Generative Ai` `Proxmox` `Ollama` `RAG` `` `theHarvester` `Amass` `Mimikatz` `Metasploit` `httpX` `Metasploitable` `Recon-ng` `Censys` `Shodan` `Gophish` `W3af` `Nuclei` `Wapiti` `Dalfox` `Wappalyze` `Burpsuite` `OWASP Zap` `Sublist3r` `Subfinder` `VMware` `Virtual Box` `Whois` `Wireshark` `Hybrid Analysis` `Process Hacker` `Process Monitor` `IDA-Pro` `OWASP ZAP` `VirusTotal` `Joe Security Joe Sandbox` `PeStudio` `Open EDR` `Shodan` `IntelliganceX` `OSINT Framework` `TinyEye` `Yandex` `Maltego` `BuiltWith` `Wayback Machines` `Metagoofil` `` `Anaconda Distribution` `Ettercap` `Ffuf` `Dirbuster` `Wfuzz` `Hydra` `Medusa` `Hashcat` `XSStrike` `PwnXSS` `Sqlmap` `Ghouri` `Dionaea` `Cowrie` `Snare&Tanner` `Conpot` `Office 365` `Proxmox` `Teams` `Trello` `MS Azure` `Google Cloud Platform` `WireGuard` `Mx Toolbox` `Github` `Latex` `WAF Testing` `Cloud Enum` `Autopsy` `Matplotlib` `Flask` `Requests` `Beautiful Soup` `Scrapy` `Seaborn` `Scikit-learn` `NLTK` `Auto Encoder` `Joblib` `Transformers` `Volatility` `EnCase` `Autopsy` `Cellebrite` `NetworkMiner` `FTK Forensic Toolkit` `FTK Imager` `Bulk Extractor` `Redline` `MailXaminer` `DomainTools`
 </div>
 
-
-## Hands-On Tools
-<div class="rowl1" style="padding-top: 10px; text-align:justify;">
-`ISO-27001` `NIST Standards` `PCI-DSS` `HIPPA` `Personal Data Protection Law - Qatar` `NIA Policy 2.0` `NIA Standard 2.1`
-`Splunk SIEM` `QRadar SIEM` `Wazuh EDR` `Snort IDS/IPS` `Suricata IDS` `NMAP` `Cuckoo Sandbox` `Shodan` `Nuclei`
-`Metasploit` `Burpsuite` `OWASP Zap` `Recon-ng` `httpX` `Gophish` `Mimikatz` `W3af` `Sqlmap` `Dirbuster` `Hydra` `Hashcat`
-`Wireshark` `Maltego` `Matplotlib` `Flask` `Requests` `Beautiful Soup` `Scrapy` `Seaborn` `Scikit-learn` `Volatility` `EnCase` `Autopsy` `Cellebrite` `NetworkMiner` `FTK Forensic Toolkit` `DomainTools` `Python` `Machine Learning` `Anomaly Detection` `Pandas - Data Analytics` `Linux (Kali, Ubuntu)` `Google Dorking` `Generative AI` `Proxmox` `Ollama` `RAG` `theHarvester` `Amass` `VMware` `Virtual Box` `Whois` `Hybrid Analysis` `Process Hacker` `Process Monitor` `IDA-Pro` `VirusTotal` `Joe Security Joe Sandbox` `PeStudio` `Open EDR` `IntelligenceX` `OSINT Framework` `TinyEye` `Yandex` `BuiltWith` `Wayback Machine` `Metagoofil` `Anaconda Distribution` `Ettercap` `Ffuf` `Wfuzz` `Medusa` `XSStrike` `PwnXSS` `Ghouri` `Dionaea` `Cowrie` `Snare&Tanner` `Conpot` `Office 365` `Teams` `Trello` `MS Azure` `Google Cloud Platform` `WireGuard` `Mx Toolbox` `Github` `Latex` `WAF Testing` `Cloud Enum` `Autopsy` `Flask` `Seaborn` `NLTK` `Auto Encoder` `Joblib` `Transformers`
-</div>
-
-
 ## Interests
 <div class="rowl1" style="padding-top: 10px;">
 1. GRC and Compliance

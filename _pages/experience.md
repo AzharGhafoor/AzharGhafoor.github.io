@@ -6,6 +6,16 @@ permalink: /experience/
 ---
 
 # Experiences
+## Lecturer Cyber Security
+<button class="btn-completed">[Air University, Islamabad](https://au.edu.pk/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2023 - Present</button>
+<div class="rowl1" style="padding-top: 10px;">
+- <p align="justify">Instructed cybersecurity courses on Secure Software Development, Information Security, Network Forensics, and ICT, including conducting hands-on labs.</p>
+- <p align="justify">Supervised undergraduate projects: Oversaw a Bachelor’s Final Year Project and currently supervising two cybersecurity projects, focusing on an Innovative Cyber Deception Solution and AI-based MITRE ATT&CK mapping of vulnerabilities.</p>
+- <p align="justify">Delivered comprehensive OSINT training: Conducted a week-long training session for [NACTA Pakistan](https://nacta.gov.pk/) employees, enhancing their skills in Data Intelligence and analyst mentoring.</p>
+- <p align="justify">Led university penetration testing team: Directed efforts to strengthen network and web portal security against cyber threats, identifying and reporting various vulnerabilities.</p>
+</div>
+
+
 ## Cyber Security Analyst
 <button class="btn-completed">[Cytomate Solutions & Services](https://cytomate.net/)</button>  <button class="btn-inprogress">Doha, Qatar</button><button class="btn-notstarted">2022 - 2024</button>
 <div class="rowl1" style="padding-top: 10px;">

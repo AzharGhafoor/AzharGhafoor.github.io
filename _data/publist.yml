@@ -25,6 +25,14 @@
   doi: http://dx.doi.org/10.13140/RG.2.2.25209.75367
   abstract: "The Crime Prediction Method is a systemic approach to preventing the detection and review of past crime data patterns and trends and uses it for future crime forecasting. This system is designed to predict the type of crime in a given region that is highly likely to occur and can view areas susceptible to crime. Crime analyzers are helping law enforcement officers to solve crimes with the growing advent of computerized systems. Using machine learning methods, we can derive information from past crime data that is unknown and useful before and can predict future crimes. Here we are working to build a machine learning procedure between computer science and criminal justice, so that crimes can be resolved faster. Instead of focusing on the causes of crime, such as crime, political hostility, etc., we concentrate mostly on the crime factors of every day."
 
+- title: "Discover and Automate New Adversarial Attack Paths to Reduce Threat Risks for The Security of Organizations"
+  authors:  Ghafoor, Azhar;  Shah, Munam Ali; Zaka, Bilal;  and Nawaz, Muhammad  
+  url: DiscoverAdversarialAttackPaths
+  image: DiscoverAdversarialAttackPaths.png
+  display: "IPSI Transactions on Internet Research, vol. 20(2), pp. 53-60, 2024"
+  year: 2024
+  doi: https://doi.org/10.58245/ipsi.tir.2402.06
+  abstract: "Phishing remains a pervasive cybersecurity threat, leveraging social engineering and technological deception to obtain sensitive information and credentials. This research explores novel attack paths employed by sophisticated adversaries, focusing on the identification and analysis of emerging tactics to enhance understanding and awareness of evolving phishing threats. The study uncovers various attack vectors, including the impersonation of reputable entities and the exploitation of legitimate platforms for malicious purposes. Notably, it highlights the increasing prevalence of documentbased and social media-based phishing campaigns, underscoring the adaptability of attackers in exploiting diverse channels to deceive users. Furthermore, the research evaluates the effectiveness of current countermeasures and proposes actionable strategies to mitigate phishing risks for organizations. Recommendations include strengthening email protection measures, implementing robust web filtering systems, and conducting simulated phishing campaigns to enhance employee awareness. By providing insights into emerging attack paths and practical recommendations, this research contributes to the ongoing efforts to combat phishing threats and strengthen cybersecurity resilience. The findings underscore the critical importance of proactive measures and continuous vigilance in safeguarding against evolving cyber threats in today's dynamic digital landscape."
 
 
 # - title: "Multi-core Insense"

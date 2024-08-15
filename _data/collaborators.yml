@@ -1,59 +1,59 @@
-- name: Dr. Munam Ali Shah
-  name_url: https://scholar.google.com.pk/citations?user=bzj3D1oAAAAJ&hl=en
-  field: 5G Networks, IoMT
-  institution: King Faisal University
-  institution_url: https://faculty.kfu.edu.sa/
-  
-- name: Dr. Kashif Kifayat
-  name_url: https://pk.linkedin.com/in/kashif-kifayat-762a6620
-  field: Cybersecurity
-  institution: National Center for Cyber Security
-  institution_url: https://www.nccs.pk/
+- name: "Dr. Munam Ali Shah"
+  name_url: "https://scholar.google.com.pk/citations?user=bzj3D1oAAAAJ&hl=en"
+  field: "5G Networks, IoMT"
+  institution: "King Faisal University"
+  institution_url: "https://faculty.kfu.edu.sa/"
 
-- name: Dr. Zunera Jalil
-  name_url: https://pk.linkedin.com/in/dr-zunera-jalil
-  field: Cybersecurity Courses: Information Security, Network Forensics, Secure Software Development
-  institution: Air University
-  institution_url: https://www.au.edu.pk/
+- name: "Dr. Kashif Kifayat"
+  name_url: "https://pk.linkedin.com/in/kashif-kifayat-762a6620"
+  field: "Cybersecurity"
+  institution: "National Center for Cyber Security"
+  institution_url: "https://www.nccs.pk/"
 
-- name: Dr. Jawaid Iqbal
-  name_url: https://pk.linkedin.com/in/dr-jawaid-iqbal-7230436a
-  field: Cybersecurity
-  institution: Riphah International University
-  institution_url: https://riphah.edu.pk/
+- name: "Dr. Zunera Jalil"
+  name_url: "https://pk.linkedin.com/in/dr-zunera-jalil"
+  field: "Cybersecurity Courses: Information Security, Network Forensics, Secure Software Development"
+  institution: "Air University"
+  institution_url: "https://www.au.edu.pk/"
 
-- name: Dr. Farhana Jabeen Khan
-  name_url: https://www.researchgate.net/profile/Farhana-Jabeen
-  field: Cybersecurity Hands-on Labs
-  institution: COMSATS University Islamabad
-  institution_url: https://www.comsats.edu.pk/
+- name: "Dr. Jawaid Iqbal"
+  name_url: "https://pk.linkedin.com/in/dr-jawaid-iqbal-7230436a"
+  field: "Cybersecurity"
+  institution: "Riphah International University"
+  institution_url: "https://riphah.edu.pk/"
 
-- name: Mr. Mudassar Mushtaq
-  name_url: https://www.linkedin.com/in/mudassar-mushtaq/
-  field: IoMT
-  institution: Pakistan Telecommunication Company Ltd (PTCL)
-  institution_url: https://ptcl.com.pk/
+- name: "Dr. Farhana Jabeen Khan"
+  name_url: "https://www.researchgate.net/profile/Farhana-Jabeen"
+  field: "Cybersecurity Hands-on Labs"
+  institution: "COMSATS University Islamabad"
+  institution_url: "https://www.comsats.edu.pk/"
 
-- name: Mr. Osama Ellahi
-  name_url: https://www.linkedin.com/in/osamaellahi/
-  field: Social Engineering, OSINT 
-  institution: Cytomate Solutions and Services
-  institution_url: https://cytomate.net/
+- name: "Mr. Mudassar Mushtaq"
+  name_url: "https://www.linkedin.com/in/mudassar-mushtaq/"
+  field: "IoMT"
+  institution: "Pakistan Telecommunication Company Ltd (PTCL)"
+  institution_url: "https://ptcl.com.pk/"
 
-- name: Mr. Bilal Qadeer
-  name_url: https://www.linkedin.com/in/bilal-qadeer/
-  field: Attack Surface Management
-  institution: Cytomate Solutions and Services
-  institution_url: https://cytomate.net/
+- name: "Mr. Osama Ellahi"
+  name_url: "https://www.linkedin.com/in/osamaellahi/"
+  field: "Social Engineering, OSINT"
+  institution: "Cytomate Solutions and Services"
+  institution_url: "https://cytomate.net/"
 
-- name: Mr. Muhammad Usman Rana
-  name_url: https://www.linkedin.com/in/muhammad-usman-rana-a472bb14b/
-  field: Cyber Deception, Research
-  institution: Khushhali Microfinance Bank Limited
-  institution_url: https://www.linkedin.com/company/khushhali-microfinance-bank-limited/
+- name: "Mr. Bilal Qadeer"
+  name_url: "https://www.linkedin.com/in/bilal-qadeer/"
+  field: "Attack Surface Management"
+  institution: "Cytomate Solutions and Services"
+  institution_url: "https://cytomate.net/"
 
-- name: Mr. M. Ahmad Nawaz
-  name_url: https://www.linkedin.com/in/m-ahmad-nawaz-524974112/
-  field: Practical Research
-  institution: Riphah International University
-  institution_url: https://riphah.edu.pk/
+- name: "Mr. Muhammad Usman Rana"
+  name_url: "https://www.linkedin.com/in/muhammad-usman-rana-a472bb14b/"
+  field: "Cyber Deception, Research"
+  institution: "Khushhali Microfinance Bank Limited"
+  institution_url: "https://www.linkedin.com/company/khushhali-microfinance-bank-limited/"
+
+- name: "Mr. M. Ahmad Nawaz"
+  name_url: "https://www.linkedin.com/in/m-ahmad-nawaz-524974112/"
+  field: "Practical Research"
+  institution: "Riphah International University"
+  institution_url: "https://riphah.edu.pk/"

@@ -72,7 +72,7 @@ permalink: /about/
 ## Short biography
 
 <div class="short-bio">
- <p align="justify">Azhar Ghafoor is a seasoned Cybersecurity Analyst with a profound passion for the field. With over a year of experience at Cytomate, he has spearheaded innovative projects in compliance, post-attack assessment, and attack surface management. Azhar's expertise extends to machine learning-driven log analysis, advanced cyber deception, and impactful phishing awareness campaigns. As a Cybersecurity Content Writer on Medium and a Professional Freelancer on Fiverr, he shares his knowledge and delivers top-tier results. Azhar holds a Master's in Information Security from COMSATS University Islamabad, cementing his commitment to cybersecurity excellence.</p>
+ <p align="justify">Azhar Ghafoor is a seasoned Cybersecurity Analyst with a profound passion for the field. With over three years of experience in Cybersecurity, he has spearheaded innovative projects in compliance, post-attack assessment, and attack surface management and many others. Azhar's expertise extends to machine learning-driven log analysis, advanced cyber deception, and impactful phishing awareness campaigns. As a Cybersecurity Content Writer on Medium and a Professional Freelancer on Fiverr, he shares his knowledge and delivers top-tier results. Azhar holds a Master's in Information Security from COMSATS University Islamabad, cementing his commitment to cybersecurity excellence.</p>
 </div>
 
 

@@ -1,0 +1,16 @@
+@ARTICLE{
+   author = {A. Ghafoor},
+   author = {M. A. Shah},
+   author = {B. Zaka},
+   author = {M. Nawaz},
+   keywords = {Cyberattack; email gateway; exploitation; identity theft; phishing; PII; spam; spoofing; user credentials;},
+   language = {English},
+   abstract = {Phishing remains a pervasive cybersecurity threat, leveraging social engineering and technological deception to obtain sensitive information and credentials. This research explores novel attack paths employed by sophisticated adversaries, focusing on the identification and analysis of emerging tactics to enhance understanding and awareness of evolving phishing threats. The study uncovers various attack vectors, including the impersonation of reputable entities and the exploitation of legitimate platforms for malicious purposes. Notably, it highlights the increasing prevalence of documentbased and social media-based phishing campaigns, underscoring the adaptability of attackers in exploiting diverse channels to deceive users. Furthermore, the research evaluates the effectiveness of current countermeasures and proposes actionable strategies to mitigate phishing risks for organizations. Recommendations include strengthening email protection measures, implementing robust web filtering systems, and conducting simulated phishing campaigns to enhance employee awareness. By providing insights into emerging attack paths and practical recommendations, this research contributes to the ongoing efforts to combat phishing threats and strengthen cybersecurity resilience. The findings underscore the critical importance of proactive measures and continuous vigilance in safeguarding against evolving cyber threats in today's dynamic digital landscape.},
+   title = {Discover and Automate New Adversarial Attack Paths to Reduce Threat Risks for The Security of Organizations},
+   journal = {IPSI Transactions on Internet Research, vol. 20(2), pp. 53-60, 2024},
+   year = {2024},
+   month = {},
+   pages = {70-77(7)},
+   publisher ={IPSI, Belgrade},
+   url = {https://ipsitransactions.org/journals/papers/tir/2024jul/p6.php}
+}

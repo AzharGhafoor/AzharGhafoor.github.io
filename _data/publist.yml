@@ -1,38 +1,52 @@
 - title: "The Internet of Medical Things (IoMT): Security Threats and Issues Affecting the Digital Economy"
-  authors: Mushtaq, M., Shah, M. A., and Ghafoor, A.
-  url: TheInternetofMedicalThings
-  image: TheInternetofMedicalThings.png
+  authors: 
+    - Mushtaq, M.
+    - Shah, M. A.
+    - Ghafoor, A.
+  url: "TheInternetofMedicalThings"
+  image: "TheInternetofMedicalThings.png"
   display: "Conference Paper in IET Digital Library"
   year: 2021
-  doi: https://chooser.crossref.org/?doi=10.1049%2Ficp.2021.2420
+  doi: "https://chooser.crossref.org/?doi=10.1049%2Ficp.2021.2420"
   abstract: "In the healthcare industry, we cannot deny, contradict, or oppose the importance of the Internet of Medical Things (IoMT). The ultimate purpose of the IoMT system is to gather and transmit health information, including ECG readings, weight measurements, blood pressure data, and sugar levels. This data may be shared with authorized individuals, such as physicians, participating health companies, insurance providers, or external contractors, regardless of their time, location, or device. However, the situation is not as straightforward because IoMT faces various emerging cyberattacks and threats. New malware attacks targeting IoMT are created and launched daily because attackers recognize the immense value of this market, worth billions. The purpose of this paper is to introduce you to some of the well-known attacks targeting IoT, including denial of service, router attacks, sensor attacks, replay attacks, fingerprinting, time-based spoofing, and recent malware attacks like Miari, Emoted, Gamut, and NE curs, as well as ransomware in IoMT."
 
 - title: "5G Security Threats Affecting Digital Economy And Their Countermeasures"
-  authors: Ghafoor, A., Shah, M. A., Mushtaq, M., Iftikhar, M.
-  url: 5GSecurityThreats
-  image: 5GSecurityThreats.png
+  authors: 
+    - Ghafoor, A.
+    - Shah, M. A.
+    - Mushtaq, M.
+    - Iftikhar, M.
+  url: "5GSecurityThreats"
+  image: "5GSecurityThreats.png"
   display: "Conference Paper in IET Digital Library"
   year: 2021
-  doi: https://chooser.crossref.org/?doi=10.1049%2Ficp.2021.2419
+  doi: "https://chooser.crossref.org/?doi=10.1049%2Ficp.2021.2419"
   abstract: "The fifth-generation (5G) network is set to provide extensive connectivity for sharing information and data with low latency rates, increased bandwidth, and a broader frequency spectrum, ultimately boosting speed. Securing Massive Internet of Things (IoT) devices is paramount to ensure secure communication among various devices. While 5G wireless communication introduces new services and frameworks, it also magnifies security concerns. Additionally, it poses significant challenges to user privacy. This report offers a comprehensive overview of the threats and challenges inherent in 5G networks and presents potential solutions. Furthermore, 5G is leveraged to enhance communication security and provide essential building blocks for physical layer security."
 
 - title: "Forecasting the Trends and Patterns of Crime in San Francisco using Machine Learning Model"
-  authors:  Rasool, S., Ghafoor, A., Fareed, Z. 
-  url: ForecastingtheTrendsandPatterns
-  image: ForecastingtheTrendsandPatterns.png
+  authors: 
+    - Rasool, S.
+    - Ghafoor, A.
+    - Fareed, Z.
+  url: "ForecastingtheTrendsandPatterns"
+  image: "ForecastingtheTrendsandPatterns.png"
   display: "Journal Paper in INTERNATIONAL JOURNAL OF SCIENTIFIC & ENGINEERING RESEARCH, VOLUME 12, ISSUE 6, JUNE-2021"
   year: 2021
-  doi: http://dx.doi.org/10.13140/RG.2.2.25209.75367
+  doi: "http://dx.doi.org/10.13140/RG.2.2.25209.75367"
   abstract: "The Crime Prediction Method is a systemic approach to preventing the detection and review of past crime data patterns and trends and uses it for future crime forecasting. This system is designed to predict the type of crime in a given region that is highly likely to occur and can view areas susceptible to crime. Crime analyzers are helping law enforcement officers to solve crimes with the growing advent of computerized systems. Using machine learning methods, we can derive information from past crime data that is unknown and useful before and can predict future crimes. Here we are working to build a machine learning procedure between computer science and criminal justice, so that crimes can be resolved faster. Instead of focusing on the causes of crime, such as crime, political hostility, etc., we concentrate mostly on the crime factors of every day."
 
 - title: "Discover and Automate New Adversarial Attack Paths to Reduce Threat Risks for The Security of Organizations"
-  authors:  Azhar Ghafoor, Munam Ali Shah, Bilal Zaka, and Muhammad Nawaz  
-  url: DiscoverAdversarialAttackPaths
-  image: DiscoverAdversarialAttackPaths.png
+  authors: 
+    - Azhar Ghafoor
+    - Munam Ali Shah
+    - Bilal Zaka
+    - Muhammad Nawaz
+  url: "DiscoverAdversarialAttackPaths"
+  image: "DiscoverAdversarialAttackPaths.png"
   display: "IPSI Transactions on Internet Research, vol. 20(2), pp. 53-60, 2024"
   year: 2024
-  doi: https://doi.org/10.58245/ipsi.tir.2402.06
-  abstract: "Phishing remains a pervasive cybersecurity threat, leveraging social engineering and technological deception to obtain sensitive information and credentials. This research explores novel attack paths employed by sophisticated adversaries, focusing on the identification and analysis of emerging tactics to enhance understanding and awareness of evolving phishing threats. The study uncovers various attack vectors, including the impersonation of reputable entities and the exploitation of legitimate platforms for malicious purposes. Notably, it highlights the increasing prevalence of document based and social media-based phishing campaigns, underscoring the adaptability of attackers in exploiting diverse channels to deceive users. Furthermore, the research evaluates the effectiveness of current countermeasures and proposes actionable strategies to mitigate phishing risks for organizations. Recommendations include strengthening email protection measures, implementing robust web filtering systems, and conducting simulated phishing campaigns to enhance employee awareness. By providing insights into emerging attack paths and practical recommendations, this research contributes to the ongoing efforts to combat phishing threats and strengthen cybersecurity resilience. The findings underscore the critical importance of proactive measures and continuous vigilance in safeguarding against evolving cyber threats in todays dynamic digital landscape."
+  doi: "https://doi.org/10.58245/ipsi.tir.2402.06"
+  abstract: "Phishing remains a pervasive cybersecurity threat, leveraging social engineering and technological deception to obtain sensitive information and credentials. This research explores novel attack paths employed by sophisticated adversaries, focusing on the identification and analysis of emerging tactics to enhance understanding and awareness of evolving phishing threats. The study uncovers various attack vectors, including the impersonation of reputable entities and the exploitation of legitimate platforms for malicious purposes. Notably, it highlights the increasing prevalence of document based and social media-based phishing campaigns, underscoring the adaptability of attackers in exploiting diverse channels to deceive users. Furthermore, the research evaluates the effectiveness of current countermeasures and proposes actionable strategies to mitigate phishing risks for organizations. Recommendations include strengthening email protection measures, implementing robust web filtering systems, and conducting simulated phishing campaigns to enhance employee awareness. By providing insights into emerging attack paths and practical recommendations, this research contributes to the ongoing efforts to combat phishing threats and strengthen cybersecurity resilience. The findings underscore the critical importance of proactive measures and continuous vigilance in safeguarding against evolving cyber threats in today's dynamic digital landscape."
 
 # - title: "Multi-core Insense"
 #   authors: Bazilinskyy, P.

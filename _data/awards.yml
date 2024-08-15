@@ -4,12 +4,6 @@
   organisation_url: https://www.skillfront.com
   year: 2023
 
-- name: Foundations of Cybersecurity
-  name_url: https://coursera.org/share/a3a99a115d1d2047214cbc75b2a1db75
-  organisation: Google, Coursera
-  organisation_url: https://coursera.org
-  year: 2021
-
 - name: Foundation Level Threat intelligence Analyst
   name_url: https://arcx.io/verify-certificate?id=c385f4a7ce015ec8f8f3f60930a2757dbce1fe8f&k=0d37d53c28b54f58a140c4be46e97120
   organisation: arcX
@@ -46,10 +40,46 @@
   organisation_url: https://learn.microsoft.com/
   year: 2023
 
+- name: Linux Assessment
+  name_url: https://www.linkedin.com/posts/azhar-ghafoor_linkedinskillassessment-activity-6942573118683049984-AlVf?utm_source=share&utm_medium=member_desktop&trk=public_profile_certification-title
+  organisation: LinkedIn
+  organisation_url: https://www.linkedin.com
+  year: 2023
+
 - name: Microsoft PowerPoint assessment
   name_url: https://www.linkedin.com/posts/azhar-ghafoor_linkedinskillassessment-activity-6942573118683049984-AlVf?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3ByXzsueFnSJ2CN5Fn06WdJQ%3D%3D
   organisation: Linkedin
   organisation_url: https://www.linkedin.com
+  year: 2022
+
+- name: OPSWAT Email Security Associate (OESA)
+  name_url: https://www.credly.com/badges/8e59d45a-2373-46a2-a030-b184f273ce3f/public_url?trk=public_profile_certification-title
+  organisation: OPSWAT
+  organisation_url: https://www.opswat.com/
+  year: 2022
+
+- name: OPSWAT Endpoint Compliance Associate (OECA)
+  name_url: https://www.credly.com/badges/b4e5e06b-019b-405e-92a6-5dd8c4752559?trk=public_profile_certification-title
+  organisation: OPSWAT
+  organisation_url: https://www.opswat.com/
+  year: 2022
+
+- name: OPSWAT Web Traffic Protection Associate (OWPA)
+  name_url: https://www.credly.com/badges/3da504a3-c657-4b2f-8e1f-1be53902cb40/public_url?trk=public_profile_certification-title
+  organisation: OPSWAT
+  organisation_url: https://www.opswat.com/
+  year: 2022
+
+- name: OPSWAT Network Security Associate (ONSA)
+  name_url: https://www.credly.com/badges/208a2826-637f-492c-9006-24c6aa65b64e/public_url?trk=public_profile_certification-title
+  organisation: OPSWAT
+  organisation_url: https://www.opswat.com/
+  year: 2022
+
+- name: Certified Ethical Hacker(CEH)
+  name_url: https://drive.google.com/file/u/0/d/1DXMRPjNd6Z4NQjDuM5PlDofZatOS3qbM/view?usp=sharing&pli=1
+  organisation: PFTP
+  organisation_url: https://pftpedu.org/
   year: 2022
 
 - name: HCIA Security
@@ -58,8 +88,8 @@
   organisation_url: https://e.huawei.com/en/talent/
   year: 2021
 
-- name: Certified Ethical Hacker(CEH)
-  name_url: https://drive.google.com/file/u/0/d/1DXMRPjNd6Z4NQjDuM5PlDofZatOS3qbM/view?usp=sharing&pli=1
-  organisation: PFTP
-  organisation_url: https://pftpedu.org/
-  year: 2022
+- name: Foundations of Cybersecurity
+  name_url: https://coursera.org/share/a3a99a115d1d2047214cbc75b2a1db75
+  organisation: Google, Coursera
+  organisation_url: https://coursera.org
+  year: 2021

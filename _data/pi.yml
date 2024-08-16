@@ -13,14 +13,15 @@
   education1: (2023–) Cybersecurity Lecturer at <a href="https://www.au.edu.pk/" target="_blank">Air University Islamabad</a>, Islamabad, Pakistan
   education2: (2022–) Cybersecurity Analyst at <a href="https://cytomate.net/" target="_blank">Cytomate Solutions & Services</a>, Doha, Qatar
   education3: (2021–22) Cybersecurity Researcher at <a href="https://comsats.edu.pk/" target="_blank">Cybersecurity Lab, CUI</a>, PK
-  education4: (2020–22) <b>Master in Information Security</b> from <a href="https://comsats.edu.pk/" target="_blank">COMSATS University Islamabad</a>, PK
-  # education5: (2020–) Professional Freelancing at <a href="https://www.fiverr.com/azharghafoor39?up_rollout=true" target="_blank">Fiverr</a>
-  education6: (2019-19) Internship at <a href="https://www.aksa-sds.com/" target="_blank">AKSA-SDS</a>, PK
-  education7: (2015–19) <b>Bachelors in Information Technology</b> from <a href="https://qau.edu.pk/" target="_blank">Quaid-i-Azam University</a>, PK
+  education4: (2019-19) Internship at <a href="https://www.aksa-sds.com/" target="_blank">AKSA-SDS</a>, PK
+  education5: (2015–19) <b>Bachelors in Information Technology</b> from <a href="https://qau.edu.pk/" target="_blank">Quaid-i-Azam University</a>, PK
+  education6: (2020–22) <b>Master in Information Security</b> from <a href="https://comsats.edu.pk/" target="_blank">COMSATS University Islamabad</a>, PK
   education1short: (2023–) Cybersecurity Lecturer, AU
   education2short: (2022–) Cybersecurity Analyst, Cytomate  
   education3short: (2021–22) Cybersecurity Researcher, CUI
-  education4short: (2020–22) MS Information Security, CUI
+  education4short: (2019–19) Intern, AKSA-SDS
+  education5short: (2020–22) MS Information Security, CUI
+  education6short: (2015–19) BS Information Technology, QAU
+
+  # education5: (2020–) Professional Freelancing at <a href="https://www.fiverr.com/azharghafoor39?up_rollout=true" target="_blank">Fiverr</a>
   # education5short: (2020–) Professional Freelancing, Fiverr
-  education6short: (2019–19) Intern, AKSA-SDS
-  education7short: (2015–19) BS Information Technology, QAU

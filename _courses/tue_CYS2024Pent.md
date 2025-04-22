@@ -17,23 +17,23 @@ comment:
 #### Introduction
 <!-- Course Description for “Penetration Testing” (CYS‑243) -->
 <p align="justify">
-The course on “Penetration Testing” (CYS‑243) equips students with hands‑on skills to identify, exploit, and remediate security vulnerabilities before adversaries do. Through a mix of lectures and lab work (2 + 1 credit hours), participants learn industry‑standard methodologies—from scoping and rules of engagement to advanced network, web, wireless, IoT, OT/SCADA, cloud, and binary exploitation techniques. Ethical hacking case studies and real‑world exercises reinforce practical mastery and prepare students to defend critical infrastructure against evolving cyber threats. :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
+The course on “Penetration Testing” (CYS‑243) equips students with hands‑on skills to identify, exploit, and remediate security vulnerabilities before adversaries do. Through a mix of lectures and lab work (2 + 1 credit hours), participants learn industry‑standard methodologies—from scoping and rules of engagement to advanced network, web, wireless, IoT, OT/SCADA, cloud, and binary exploitation techniques. Ethical hacking case studies and real‑world exercises reinforce practical mastery and prepare students to defend critical infrastructure against evolving cyber threats.
 </p>
 
 <ul>
   <li><strong>Course Code:</strong> CYS‑243</li>
   <li><strong>Credit Hours:</strong> 2 Lecture + 1 Lab</li>
   <li><strong>Prerequisites:</strong> None</li>
-  <li><strong>Grading Policy:</strong> Relative grading; missed midterm/final retakes require committee approval :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}</li>
-  <li><strong>Plagiarism Policy:</strong> Zero on quiz/assignment for plagiarism; F grade for project/exam plagiarism :contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}</li>
+  <li><strong>Grading Policy:</strong> Relative grading; missed midterm/final retakes require committee approval.</li>
+  <li><strong>Plagiarism Policy:</strong> Zero on quiz/assignment for plagiarism; F grade for project/exam plagiarism.</li>
 </ul>
 
 #### Course Learning Outcomes (CLOs)
 <ul>
-  <li><strong>CLO 1:</strong> Understand different types of penetration testing and the industry standards that regulate them. :contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}</li>
-  <li><strong>CLO 2:</strong> Perform penetration tests on network infrastructures and analyze vulnerabilities using tools and techniques. :contentReference[oaicite:8]{index=8}&#8203;:contentReference[oaicite:9]{index=9}</li>
-  <li><strong>CLO 3:</strong> Execute Nmap Scripting Engine scripts to extract detailed information from target systems. :contentReference[oaicite:10]{index=10}&#8203;:contentReference[oaicite:11]{index=11}</li>
-  <li><strong>CLO 4:</strong> Develop rules of engagement for safe, ethical penetration testing. :contentReference[oaicite:12]{index=12}&#8203;:contentReference[oaicite:13]{index=13}</li>
+  <li><strong>CLO 1:</strong> Understand different types of penetration testing and the industry standards that regulate them.</li>
+  <li><strong>CLO 2:</strong> Perform penetration tests on network infrastructures and analyze vulnerabilities using tools and techniques.</li>
+  <li><strong>CLO 3:</strong> Execute Nmap Scripting Engine scripts to extract detailed information from target systems.</li>
+  <li><strong>CLO 4:</strong> Develop rules of engagement for safe, ethical penetration testing.</li>
 </ul>
 
 #### Topics &amp; Weekly Breakdown (15 wk, 1 hr lectures)
@@ -57,8 +57,7 @@ The course on “Penetration Testing” (CYS‑243) equips students with hands�
 
 #### Laboratory &amp; Programming Projects
 <p align="justify">
-Hands‑on labs cover virtual lab setup (Kali, VMware/VirtualBox), information gathering, scanning/enumeration, exploitation, post‑exploitation, web/mobile pen testing, social engineering, IoT/SCADA, and report compilation. :contentReference[oaicite:14]{index=14}&#8203;:contentReference[oaicite:15]{index=15}
-</p>
+Hands‑on labs cover virtual lab setup (Kali, VMware/VirtualBox), information gathering, scanning/enumeration, exploitation, post‑exploitation, web/mobile pen testing, social engineering, IoT/SCADA, and report compilation.</p>
 
 <h4>Assessment &amp; Grading Breakdown</h4>
 <ul>

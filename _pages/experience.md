@@ -7,19 +7,19 @@ permalink: /experience/
 
 # Experience
 ## AM Cyber Security
-<button class="btn-completed">[Govt. Pakistan](https://pakistan.gov.pk/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2025 - Present</button>
+<button class="btn-completed" style="color:white">[Govt. Pakistan](https://pakistan.gov.pk/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2025 - Present</button>
 <div class="rowl1" style="padding-top: 10px;">
-<p align="justify">As Assistant Manager of Cybersecurity at the Government of Pakistan, I spearheaded the end‑to‑end design, development, and deployment of a one‑click document sanitation system that transforms malicious, adversarial files into safe, protected formats. This solution—solely planned, architected, managed, and executed by me—has been widely accredited across the organization for its effectiveness in safeguarding users and critical assets.
+- <p align="justify">Engineered and deployed a one‑click document sanitation system that converts malicious files into protected formats—solely planned, designed, and executed by me—resulting in organization‑wide accreditation for enhancing user and asset security.
 </p>
-<p align="justify">I independently architected and implemented a locally hosted generative AI platform that provides a fully secure, private environment. Multiple users can interact with the system—posing questions and obtaining answers spanning diverse departments and policies—without any internet dependency. An integrated Retrieval‑Augmented Generation (RAG) feature further enriches the experience by enabling contextual, policy‑aligned dialogues.
+- <p align="justify">Architected and implemented a locally hosted generative AI platform offering a fully secure, private environment; enabled multi‑user interactions across departments without internet dependency and integrated Retrieval‑Augmented Generation (RAG) for context‑aware policy guidance.
 </p>
-<p align="justify">I oversee the research &amp; development of cybersecurity initiatives, delivering innovative solutions, strategic guidance, and actionable recommendations to continuously strengthen our security posture.
+- <p align="justify">Directed R&D for cutting‑edge cybersecurity initiatives, delivering strategic roadmaps, innovative prototypes, and actionable recommendations to bolster the Government’s security posture.
 </p>
 </div>
 
 
 ## Lecturer Cyber Security
-<button class="btn-completed" color="white">[Air University, Islamabad](https://au.edu.pk/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2023 - 25</button>
+<button class="btn-completed" style="color:white">[Air University, Islamabad](https://au.edu.pk/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2023 - 25</button>
 <div class="rowl1" style="padding-top: 10px;">
 - <p align="justify">Instructed cybersecurity courses on Penetration Testing, Computer Networks, Secure Software Development, Information Security, Network Forensics, and ICT, including conducting hands-on labs.</p>
 - <p align="justify">Supervised undergraduate projects: Oversaw a Bachelor’s Final Year Projects and currently supervising two cybersecurity projects, focusing on an Innovative Cyber Deception Solution and AI-based MITRE ATT&CK mapping of vulnerabilities.</p>
@@ -29,7 +29,7 @@ permalink: /experience/
 
 
 ## Cyber Security Analyst
-<button class="btn-completed">[Cytomate Solutions & Services](https://cytomate.net/)</button>  <button class="btn-inprogress">Doha, Qatar</button><button class="btn-notstarted">2022 - 2024</button>
+<button class="btn-completed" style="color:white">[Cytomate Solutions & Services](https://cytomate.net/)</button>  <button class="btn-inprogress">Doha, Qatar</button><button class="btn-notstarted">2022 - 2024</button>
 <div class="rowl1" style="padding-top: 10px;">
 - <p align="justify">Initiated the development and promotion of a revolutionary Compliance Assessment Tool tailored for SMEs in Qatar, aligning with [NIA Policy 2.0](https://assurance.ncsa.gov.qa/sites/default/files/library/2018-11/guidance-nia_manual_english_v2.0_0.pdf) and [NIA Standard 2.1 Qatar](https://compliance.qcert.org/sites/default/files/publications/policy/2023/NCSA_CSGA_%20National_Information_Assurance_Standard_En_V2.1_1.pdf). Collaborating with [QDB](https://www.qdb.qa/), the tool marked an 80% increase in compliance rates among [SMEs](https://moushtarayat.qdb.qa/English/SMEsDirectory/Pages/default.aspx).</p>
 - <p align="justify">Led the innovation and presentation of state-of-the-art decoys within [Project SARAB](https://www.cytomate.net/project/sarab), redefining cyber deception paradigms. By customizing existing decoys and creating new ones, our team ensured robust protection of real assets against cyber threats, resulting in a remarkable 70% decrease in successful attacks on client networks.</p>
@@ -44,7 +44,7 @@ permalink: /experience/
 
 
 ## Cyber Security Researcher
-<button class="btn-completed">[Cybersecurity Lab, CUI](http://ww2.comsats.edu.pk/cs/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2021 - 2022</button>
+<button class="btn-completed" style="color:white">[Cybersecurity Lab, CUI](http://ww2.comsats.edu.pk/cs/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2021 - 2022</button>
 <div class="rowl1" style="padding-top: 10px;">
 - <p align="justify">Contributed to advanced cybersecurity projects aimed at luring attackers away from real organizational assets by deploying decoy-based deception systems.</p>
 - <p align="justify">Profiling threat actors based on their malicious intents and level of severity for any firm.</p>
@@ -53,7 +53,7 @@ permalink: /experience/
 </div>
 
 ## Intern
-<button class="btn-completed">[AKSA-SDS](https://www.aksa-sds.com/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2019 - 2019</button>
+<button class="btn-completed" style="color:white">[AKSA-SDS](https://www.aksa-sds.com/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2019 - 2019</button>
 <div class="rowl1" style="padding-top: 10px;">
 - <p align="justify">Completed research, compiled data, updated spreadsheets and produced timely reports.</p>
 - <p align="justify">Developed and maintained relationships with key internal stakeholders.</p>

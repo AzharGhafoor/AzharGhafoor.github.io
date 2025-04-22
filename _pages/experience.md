@@ -5,12 +5,24 @@ sitemap: false
 permalink: /experience/
 ---
 
-# Experiences
-## Lecturer Cyber Security
-<button class="btn-completed">[Air University, Islamabad](https://au.edu.pk/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2023 - Present</button>
+# Experience
+## AM Cyber Security
+<button class="btn-completed">[Govt. Pakistan](https://pakistan.gov.pk/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2025 - Present</button>
 <div class="rowl1" style="padding-top: 10px;">
-- <p align="justify">Instructed cybersecurity courses on Secure Software Development, Information Security, Network Forensics, and ICT, including conducting hands-on labs.</p>
-- <p align="justify">Supervised undergraduate projects: Oversaw a Bachelor’s Final Year Project and currently supervising two cybersecurity projects, focusing on an Innovative Cyber Deception Solution and AI-based MITRE ATT&CK mapping of vulnerabilities.</p>
+<p align="justify">As Assistant Manager of Cybersecurity at the Government of Pakistan, I spearheaded the end‑to‑end design, development, and deployment of a one‑click document sanitation system that transforms malicious, adversarial files into safe, protected formats. This solution—solely planned, architected, managed, and executed by me—has been widely accredited across the organization for its effectiveness in safeguarding users and critical assets.
+</p>
+<p align="justify">I independently architected and implemented a locally hosted generative AI platform that provides a fully secure, private environment. Multiple users can interact with the system—posing questions and obtaining answers spanning diverse departments and policies—without any internet dependency. An integrated Retrieval‑Augmented Generation (RAG) feature further enriches the experience by enabling contextual, policy‑aligned dialogues.
+</p>
+<p align="justify">I oversee the research &amp; development of cybersecurity initiatives, delivering innovative solutions, strategic guidance, and actionable recommendations to continuously strengthen our security posture.
+</p>
+</div>
+
+
+## Lecturer Cyber Security
+<button class="btn-completed" color="white">[Air University, Islamabad](https://au.edu.pk/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2023 - 25</button>
+<div class="rowl1" style="padding-top: 10px;">
+- <p align="justify">Instructed cybersecurity courses on Penetration Testing, Computer Networks, Secure Software Development, Information Security, Network Forensics, and ICT, including conducting hands-on labs.</p>
+- <p align="justify">Supervised undergraduate projects: Oversaw a Bachelor’s Final Year Projects and currently supervising two cybersecurity projects, focusing on an Innovative Cyber Deception Solution and AI-based MITRE ATT&CK mapping of vulnerabilities.</p>
 - <p align="justify">Delivered comprehensive OSINT training: Conducted a week-long training session for [NACTA Pakistan](https://nacta.gov.pk/) employees, enhancing their skills in Data Intelligence and analyst mentoring.</p>
 - <p align="justify">Led university penetration testing team: Directed efforts to strengthen network and web portal security against cyber threats, identifying and reporting various vulnerabilities.</p>
 </div>

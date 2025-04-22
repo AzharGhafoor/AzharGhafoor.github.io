@@ -9,12 +9,9 @@ permalink: /experience/
 ## AM Cyber Security
 <button class="btn-completed" style="color:white">[Govt. Pakistan](https://pakistan.gov.pk/)</button>  <button class="btn-inprogress">Islamabad, Pakistan</button><button class="btn-notstarted">2025 - Present</button>
 <div class="rowl1" style="padding-top: 10px;">
-- <p align="justify">Engineered and deployed a one‑click document sanitation system that converts malicious files into protected formats—solely planned, designed, and executed by me—resulting in organization‑wide accreditation for enhancing user and asset security.
-</p>
-- <p align="justify">Architected and implemented a locally hosted generative AI platform offering a fully secure, private environment; enabled multi‑user interactions across departments without internet dependency and integrated Retrieval‑Augmented Generation (RAG) for context‑aware policy guidance.
-</p>
-- <p align="justify">Directed R&D for cutting‑edge cybersecurity initiatives, delivering strategic roadmaps, innovative prototypes, and actionable recommendations to bolster the Government’s security posture.
-</p>
+- <p align="justify">Engineered and deployed a one‑click document sanitation system that converts malicious files into protected formats—solely planned, designed, and executed by me—resulting in organization‑wide accreditation for enhancing user and asset security. </p>
+- <p align="justify">Architected and implemented a locally hosted generative AI platform offering a fully secure, private environment; enabled multi‑user interactions across departments without internet dependency and integrated Retrieval‑Augmented Generation (RAG) for context‑aware policy guidance. </p>
+- <p align="justify">Directed R&D for cutting‑edge cybersecurity initiatives, delivering strategic roadmaps, innovative prototypes, and actionable recommendations to bolster the Government’s security posture.</p>
 </div>
 
 

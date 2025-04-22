@@ -4,6 +4,18 @@
   institution: "King Faisal University"
   institution_url: "https://faculty.kfu.edu.sa/"
 
+- name: "Dr. Muhammad Al-Naeem"
+  name_url: "naeem@kfu.edu.sa"
+  field: "Decoding Phishing Evasion"
+  institution: "King Faisal University"
+  institution_url: "https://faculty.kfu.edu.sa/"
+
+- name: "Dr. Carsten Maple"
+  name_url: "cm@warwick.ac.uk"
+  field: "Decoding Phishing Evasion"
+  institution: "The University of Warwick"
+  institution_url: "https://warwick.ac.uk/"
+  
 - name: "Dr. Kashif Kifayat"
   name_url: "https://pk.linkedin.com/in/kashif-kifayat-762a6620"
   field: "Cybersecurity"

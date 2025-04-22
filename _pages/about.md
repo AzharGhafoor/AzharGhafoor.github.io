@@ -72,7 +72,11 @@ permalink: /about/
 ## Short biography
 
 <div class="short-bio">
- <p align="justify">Azhar Ghafoor is a seasoned Cybersecurity Analyst with a profound passion for the field. With over three years of experience in Cybersecurity, he has spearheaded innovative projects in compliance, post-attack assessment, and attack surface management and many others. Azhar's expertise extends to machine learning-driven log analysis, advanced cyber deception, and impactful phishing awareness campaigns. As a Cybersecurity Content Writer on Medium and a Professional Freelancer on Fiverr, he shares his knowledge and delivers top-tier results. Azhar holds a Master's in Information Security from COMSATS University Islamabad, cementing his commitment to cybersecurity excellence.</p>
+<p align="justify">
+Azhar Ghafoor is a seasoned Cybersecurity Expert with a deep-rooted passion for advancing the field. With over five years of hands-on experience, he has led and contributed to diverse projects spanning compliance management, post-attack forensics, attack surface reduction, and security operations. His expertise also encompasses machine learning-based log anomaly detection, cyber deception strategies, phishing detection and awareness training, and intrusion detection systems like Snort and Suricata. 
+
+Azhar actively shares his insights as a Cybersecurity Content Writer on Medium and delivers professional services as a top-rated Freelancer on Fiverr. He holds a Master’s degree in Information Security from COMSATS University Islamabad, a testament to his dedication to cybersecurity excellence and continuous learning.
+</p>
 </div>
 
 

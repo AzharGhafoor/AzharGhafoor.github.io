@@ -11,7 +11,7 @@ permalink: /education/
 <!-- Sort courses by year -->
 {% assign courses = site.courses | sort: 'year_start' | reverse %}
 
-## Courses
+## Courses Taught
 <div class="rowl1" style="padding-top: 10px;">
 
 {% for course in courses %}

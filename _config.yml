@@ -4,7 +4,7 @@ email: azharghafoor39@gmail.com
 description: Personal webpage of Mr. Azhar Ghafoor
 baseurl: ""
 url: ""
-affiliation: I am part of the <a href="https://cytomate.net/" target="_blank">Cytomate Solutions & Services</a>; a cybersecurity company in Doha, Qatar.
+affiliation: I am part of the <a href="https://pakistan.gov.pk/" target="_blank">Govt. of Pakistan</a>; where I am serving as AM Cybersecurity.
 
 # Google analytics ID
 google_analytics: G-7BE63RZMTW
@@ -23,10 +23,10 @@ nav_pages:
   - name: about
   - name: publications
   - name: talks
- # - name: research
+  - name: research
   - name: experience
-#  - name: software
-# - name: team
+  - name: software
+  - name: team
   - name: education
   - name: volunteering
 

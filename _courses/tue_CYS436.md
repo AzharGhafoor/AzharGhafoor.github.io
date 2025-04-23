@@ -6,7 +6,7 @@ name: Network Forensics
 name_url: https://code.iitm.ac.in/networkforensics
 year_start: 2023
 year_end: 2024
-institution: University
+institution: Air University
 type: bs
 students: 112
 code: CY436

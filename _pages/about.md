@@ -73,7 +73,6 @@ permalink: /about/
   <li> {{ member.education6 }} </li>
   <li> {{ member.education7 }} </li>
   {% endif %}
-
   </ul>
 </div>
 

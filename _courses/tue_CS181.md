@@ -6,7 +6,7 @@ name: Application of information and communication technologies
 name_url: https://www.hec.gov.pk/english/services/universities/RevisedCurricula/Documents/2011-2012/Education/ICTsEdu_Sept13.pdf
 year_start: 2023
 year_end: 2023
-institution: University
+institution: Air University
 type: bs
 students: 112
 code: CS181

@@ -6,7 +6,7 @@ name: Information Security
 name_url: https://code.iitm.ac.in/informationsecurity
 year_start: 2024
 year_end: 2024
-institution: University
+institution: Air University
 type: bs
 students: 110
 code: CYS-204

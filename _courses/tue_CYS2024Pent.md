@@ -6,7 +6,7 @@ name: Penetration Testing
 name_url: https://nceac.org.pk/Documents/Curriculums/BS%20Curriculm%20Computing%20Disciplines-2023.pdf
 year_start: 2024
 year_end: 2025
-institution: University
+institution: Air University
 type: bs
 students: 120
 code: CYS243

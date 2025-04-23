@@ -6,7 +6,7 @@ name: Secure Software Development
 name_url: https://nceac.org.pk/Documents/Curriculums/BS%20Curriculm%20Computing%20Disciplines-2023.pdf
 year_start: 2023
 year_end: 2023
-institution: University
+institution: Air University
 type: bs
 students: 112
 code: CY4001

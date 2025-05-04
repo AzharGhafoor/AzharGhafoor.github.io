@@ -48,6 +48,21 @@
   doi: https://doi.org/10.58245/ipsi.tir.2402.06
   abstract: "Phishing remains a pervasive cybersecurity threat, leveraging social engineering and technological deception to obtain sensitive information and credentials. This research explores novel attack paths employed by sophisticated adversaries, focusing on the identification and analysis of emerging tactics to enhance understanding and awareness of evolving phishing threats. The study uncovers various attack vectors, including the impersonation of reputable entities and the exploitation of legitimate platforms for malicious purposes. Notably, it highlights the increasing prevalence of document based and social media-based phishing campaigns, underscoring the adaptability of attackers in exploiting diverse channels to deceive users. Furthermore, the research evaluates the effectiveness of current countermeasures and proposes actionable strategies to mitigate phishing risks for organizations. Recommendations include strengthening email protection measures, implementing robust web filtering systems, and conducting simulated phishing campaigns to enhance employee awareness. By providing insights into emerging attack paths and practical recommendations, this research contributes to the ongoing efforts to combat phishing threats and strengthen cybersecurity resilience. The findings underscore the critical importance of proactive measures and continuous vigilance in safeguarding against evolving cyber threats in today's dynamic digital landscape."
 
+- title: "Decoding Phishing Evasion: Analyzing Attacker Strategies to Circumvent Detection Systems"
+  authors: 
+    - Azhar Ghafoor
+    - Munam Ali Shah
+    - Muhammad AL-NAEEM
+    - C. Mapple
+  url: PhishingEvasion
+  image: PhishingEvasion.png
+  display: "IEEE Access"
+  year: 2025
+  doi: https://doi.org/10.1109/ACCESS.2025.3565619
+  abstract: "Phishing remains a critical security threat, involving the creation of fraudulent websites to capture sensitive information. Despite existing detection systems, sophisticated attackers have developed advanced evasion techniques that undermine these defenses. This paper highlights the significant challenge of these novel methods, focusing on how attackers manage to prolong the operational lifespan of phishing sites. Our research investigates how attackers circumvent traditional security layers by employing a combination of target filtering mechanisms, bot detection evasion, blacklisting avoidance, and honeypots. Our experimental findings indicate that these evasion strategies can achieve an effectiveness rate of 80% to 85% in extending the viability of phishing sites. We have empirically demonstrated the exposure of current systems to these attacks, revealing specific vulnerabilities and exploitation points. These results underscore the urgent need for enhanced detection frameworks that address the layered and adaptive nature of modern phishing tactics. Our work highlights a critical gap in current security measures and poses a challenge to solution providers: there is a pressing need for novel mitigations to safeguard users against these sophisticated phishing threats."
+
+
+
 # - title: "Multi-core Insense"
 #   authors: Bazilinskyy, P.
 #   url: bazilinskyy2013multi

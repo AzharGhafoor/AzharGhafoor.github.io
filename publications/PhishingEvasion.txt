@@ -1,0 +1,10 @@
+@ARTICLE{10979968,
+  author={Ghafoor, A. and Shah, M.A. and Al-Naeem, M. and Maple, C.},
+  journal={IEEE Access}, 
+  title={Decoding Phishing Evasion: Analyzing Attacker Strategies to Circumvent Detection Systems}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Phishing;Chatbots;CAPTCHAs;Computer security;Electronic mail;Crawlers;Magnetic separation;Blocklists;Servers;Uniform resource locators;Anti-phishing strategies;bot detection;captcha;cybersecurity;evasion techniques;honeypot;phishing detection},
+  doi={10.1109/ACCESS.2025.3565619}}
